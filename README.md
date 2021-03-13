@@ -1,4 +1,2 @@
-# handbook
-
-test
+# Initial page
 

@@ -1,5 +1,5 @@
 # Table of contents
 
-* [handbook](README.md)
-* [hi](hi.md)
+* [Initial page](README.md)
+* [test 2](test-2.md)
 
