@@ -4,7 +4,7 @@ title: Handbook
 twitter_image: /images/tweets/handbook-gitlab.png
 ---
 
-# index
+# README
 
 ## On this page
 
