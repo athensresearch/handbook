@@ -5,4 +5,5 @@
 * [Athens Guide](athens-guide.md)
 * [Documentation](documentation.md)
 * [vision](vision.md)
+* [Github Guide](github-guide.md)
 
