@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [README](test-2.md)
+* [Athens Research Handbook](README.md)
 * [Documentation](documentation.md)
 * [Vision](vision.md)
 * [Github Guide](github-guide.md)
