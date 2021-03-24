@@ -1,4 +1,4 @@
-# Vision
+# vision
 
 ## Table of Contents
 
