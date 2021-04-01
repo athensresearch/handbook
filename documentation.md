@@ -1,4 +1,4 @@
-# Documentation Guide
+# Documentation
 
-Our documentation process 
+Our documentation process
 
