@@ -1,4 +1,0 @@
-# Documentation
-
-Our documentation process
-
