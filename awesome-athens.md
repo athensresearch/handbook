@@ -18,5 +18,3 @@ awesome-athens community prep doc here: [https://roamresearch.com/\#/app/athensr
 
 ## Browser Extensions
 
-
-

@@ -4,8 +4,6 @@ description: to be updated
 
 # Governance
 
-
-
 ## Table of Contents
 
 * Table of Contents
@@ -25,7 +23,7 @@ description: to be updated
 
 This project is led by a [Benevolent Dictator](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel), otherwise known as the project lead, and Core Team. Together, they make the strategic decisions for the high-level, at times overlapping, domains that a technology organization needs to manage in order to function and succeed. These domains include, but are not limited to: engineering, design, product, strategy, operations, training and education, finance, legal, administration, and communications. If needed, however, the Benevolent Dictator has executive power on strategic decisions that would influence the long-term direction of Athens.
 
-Another role exists for Contributors. There are primarily two types of Contributors, those who have [contributed](./CONTRIBUTING.md) domain-specific work to the project, and those that have financially sponsored the project.
+Another role exists for Contributors. There are primarily two types of Contributors, those who have [contributed](https://github.com/athensresearch/handbook/tree/15074e290a2c7e419b8a07f33fac131127a36f0f/CONTRIBUTING.md) domain-specific work to the project, and those that have financially sponsored the project.
 
 These roles and others will be discussed in further detail below.
 

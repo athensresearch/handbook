@@ -66,7 +66,7 @@ Banning is a permanent removal from the server. Particularly effective for spamb
 
 ### Auto-Moderation
 
-[Probot](probot.io) is used for auto-moderation.
+[Probot](https://github.com/athensresearch/handbook/tree/15074e290a2c7e419b8a07f33fac131127a36f0f/probot.io) is used for auto-moderation.
 
 It warns members in the following cases:
 
