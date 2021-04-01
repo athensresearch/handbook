@@ -2,7 +2,7 @@
 
 * [Athens Research Handbook](README.md)
 * [Awesome-Athens](awesome-athens.md)
-* [Documentation](documentation.md)
+* [Documentation Guide](documentation.md)
 * [Vision](vision.md)
 * [Github Guide](github-guide.md)
 * [Contributing](contributing.md)
