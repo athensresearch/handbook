@@ -1,3 +1,7 @@
+---
+description: 'https://github.com/athensresearch/handbook'
+---
+
 # Athens Research Handbook
 
 ## Introduction
