@@ -8,6 +8,7 @@
 * [Github Guide](github-guide.md)
 * [Contributing](contributing.md)
 * [Code of Conduct](code-of-conduct.md)
+* [Hiring](hiring.md)
 * [Governance](governance.md)
 * [Product Development](product-development.md)
 
