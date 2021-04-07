@@ -26,7 +26,3 @@
 * [Introduction](school-of-athens/readme.md)
 * [Clojurefam](school-of-athens/clojurefam.md)
 
----
-
-* [test](test.md)
-
