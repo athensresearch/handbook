@@ -12,6 +12,15 @@
 * [Governance](governance.md)
 * [Product Development](product-development.md)
 
+## Athens
+
+* [Athens Components Documentation](athens/athens-components-documentation.md)
+* [Datascript Attribute Table](athens/datascript-attribute-table.md)
+* [Architecture](athens/architecture.md)
+* [Athens Block Parser Documentation](athens/athens-block-parser-documentation.md)
+* [Development](athens/development.md)
+* [Athens Guide](athens/athens-guide.md)
+
 ## School of Athens
 
 * [Introduction](school-of-athens/readme.md)
