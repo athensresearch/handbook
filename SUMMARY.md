@@ -25,4 +25,5 @@
 
 * [Introduction](school-of-athens/readme.md)
 * [Clojurefam](school-of-athens/clojurefam.md)
+* [Onboarding for New Clojurians](school-of-athens/onboarding-for-new-clojurians.md)
 
