@@ -27,3 +27,8 @@
 * [Clojurefam](school-of-athens/clojurefam.md)
 * [Onboarding for New Clojurians](school-of-athens/onboarding-for-new-clojurians.md)
 
+## People
+
+* [README](people/readme.md)
+* [Jeff](people/jeff.md)
+
