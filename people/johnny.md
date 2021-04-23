@@ -1,6 +1,6 @@
 # Johnny
 
-Hi, I'm Johnny. I'm currently overseeing and managing operations and information channels in our open source community while learning product design under Shanberg.
+Hi, I'm John 'Johnny' Morabito. I'm currently overseeing and managing operations and information channels in our open source community while learning product design under Shanberg.
 
 From 2018-2020 I went to University of Maryland for the Human-Computer Interaction Master's program where I completed my thesis titled "Managing Context in Literature Review Systems: Process Patterns and System Affordances" under the advisory of my incredible mentor, Joel Chan. In my study I observed the ways that context capture and reuse is afforded \(or not\) by the various tools and methods used by academics in their knowledge synthesis workflows.
 
