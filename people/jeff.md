@@ -28,6 +28,8 @@ I can speak authoritatively. This is good when I am right and bad when I am wron
 
 I learn really fast. I believe everything boils down to skill acquisition and learning. I believe all learning is the same, regardless if it is physical, mental, or psychological. I am mostly a self-taught programmer. Athens is my first Clojure project.
 
+My dream is for everyone to learn how to learn anything. If I ever write a book, it will be called "Learning How to Learn."
+
 ## Weaknesses
 
 My greatest weakness is my ego/pride. The Ancient Greeks called this hubris. They illustrate this in the story of Icarus, who flew too close to the sun. Sometimes I push the limits too hard, and I hurt myself, such as when I hurt myself lifting too much or overworking.
