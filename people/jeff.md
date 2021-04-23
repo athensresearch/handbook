@@ -28,15 +28,17 @@ I am generally direct when I communicate. I try to "get to the point" if there i
 
 Sometimes I do not explain my reasoning or ideas enough. Please interrupt me to explain something if it wasn't unclear.
 
-I can speak authoritively. This is good when I am right and bad when I am wrong. Don't let my confident tone convince you of what I'm saying if it doesn't make sense from first principles.
+I can speak authoritatively. This is good when I am right and bad when I am wrong. Don't let my confident tone convince you of what I'm saying if it doesn't make sense from first principles.
 
 ## **Strengths**
 
-I learn really fast. I believe everything boils to skill acquisition and learning. I believe all learning is the same, regardless if it is physical, mental, or psychological. I am mostly a self-taught programmer. Athens is my first Clojure project.
+I learn really fast. I believe everything boils down to skill acquisition and learning. I believe all learning is the same, regardless if it is physical, mental, or psychological. I am mostly a self-taught programmer. Athens is my first Clojure project.
 
 ## Weaknesses
 
-My greatest weakness is my ego/pride. The Ancient Greeks called this hubris. They illustrate this in the story of Icarus, who flew too close to the sun. Sometimes I push the limits too hard, and I hurt myself, such as when I hurt myself lifting too heavy.
+My greatest weakness is my ego/pride. The Ancient Greeks called this hubris. They illustrate this in the story of Icarus, who flew too close to the sun. Sometimes I push the limits too hard, and I hurt myself, such as when I hurt myself lifting too much or overworking.
 
-Sometimes I am impatient and have commitment issues. I quit things if I don't immediately see the point or if I don't immediately progress with them. I had 3 different majors throughout my time at school. I've worked on Athens for more than a year, but the longest job I had before this was 4 months.
+Sometimes I am impatient and have commitment issues. I quit things if I don't immediately see the point or if I don't immediately progress with them. I had 3 different majors throughout my time at school. The longest I held a job before Athens was 4 months.
+
+Perhaps I could never commit to school or a job because I always wanted to do what I'm doing now. My friends and family can confirm that I've wanted to be an entrepreneur my whole life, starting with selling parking lot maintenance services in high school. I feel like I've been preparing for Athens my whole life. Now that I'm here, I would love to work on Athens for the rest of my life. I won't delude myself, a lot of startups fail. But if it doesn't work out, I'm sure I would just start another startup.
 
