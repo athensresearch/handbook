@@ -8,19 +8,13 @@ From 2015-17, I went to Rice University in Houston, Texas. My freshman year, I m
 
 What would've been my junior year, I went to a coding bootcamp in San Francisco. I worked on a language learning chatbot startup for a few months, then interned at LiftIgniter \(YC W15\) as a frontend engineer.
 
-What would've been my senior year, I went back to Rice, switched my major to computer science, then after a week took another leave of absence. I did interview prep like crazy. I got a 4-month contract at Strata Labs as a backend engineer, as their first employee. They were later acquired by Ripple. I then interned at Microsoft as a software engineer.
+What would've been my senior year, I went back to Rice, switched my major to computer science, then after a week took another leave of absence. I started doing interview prep like crazy, knowing I needed good work experience if I was going to drop the degree. I got a 4-month contract at Strata Labs as a backend engineer, as their first employee. They were later acquired by Ripple. Afterwards, I interned at Microsoft as a software engineer.
 
 I got a full-time offer from Microsoft, but knew it wasn't for me, so I went back home to Ohio to work on startup ideas. I worked on a computer vision fitness app. A few months into it, Conor, the founder of Roam Research, asked me to interview from our interactions on Twitter.
 
 I was rejected because I didn't have Clojure experience. I still wanted to work on knowledge graphs, and I believed everyone else should also have that right — to extend and own their second brains.
 
-Open Source was the only option. Now, I have no doubt OSS will lead to the best product, platform, and community.
-
-## My hobbies
-
-I love exercising! In high school, I played football and lacrosse. I taught myself how to backflip in 2019 -- I dabble in parkour. These days, I hit the gym, do calisthenics, and play basketball. I've been working on handstands on and off for a few years.
-
-I love music, dancing, and festivals. In 2019 I went to Bonnaroo, The Gorge \(to see Above & Beyond\), Capitol Hill Block Party, and Burning Man \)\(
+Open-source was the only option. Now, I have no doubt OSS will lead to the best product, platform, and community.
 
 ## Communication Style
 
