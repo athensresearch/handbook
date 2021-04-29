@@ -33,3 +33,8 @@
 * [Jeff](people/jeff.md)
 * [Johnny](people/johnny.md)
 
+---
+
+* [Community Directory](community-directory.md)
+* [Org Chart](org-chart.md)
+
