@@ -20,7 +20,7 @@ Open-source was the only option. Now, I have no doubt OSS will lead to the best 
 
 I am generally direct when I communicate. I try to "get to the point" if there is one. I think I am pretty good at being direct without being rude, but please let me know if I am and I will apologize and try to correct it.
 
-Sometimes I do not explain my reasoning or ideas enough. Please interrupt me to explain something if it wasn't unclear.
+Sometimes I do not explain my reasoning or ideas enough. Please interrupt me to explain something if it wasn't clear.
 
 I can speak authoritatively. This is good when I am right and bad when I am wrong. Don't let my confident tone convince you of what I'm saying if it doesn't make sense from first principles.
 
