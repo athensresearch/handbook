@@ -1,10 +1,10 @@
 # Contributing Documentation
 
-If you'd like to make ongoing contributions to our handbook and documentation please reach out to one of the Athens team members to be added to the Documentarians team here on Gitbook.
+We use GitBook for all Athens documentation. Join our GitBook Follow [this link](https://app.gitbook.com/invite/athensresearch?invite=-MZsjKCJf20BrYixq610) to get write access to this handbook. Once you have write access, follow these guidelines to make contributions:
 
+[https://app.gitbook.com/invite/athensresearch?invite=-MZsjKCJf20BrYixq610](https://app.gitbook.com/invite/athensresearch?invite=-MZsjKCJf20BrYixq610)
 
-
-## Contributing as a Documentarian
+## Contributing as a Writer
 
 With write access to this gitbook \([https://docs.gitbook.com/collaboration/team-management](https://docs.gitbook.com/collaboration/team-management)\)
 
