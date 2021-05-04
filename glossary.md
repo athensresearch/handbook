@@ -2,11 +2,11 @@
 
 ## Glossary
 
-## knowledge graph
+### knowledge graph
 
 graph of knowledge
 
-## handbook
+### handbook
 
 test
 
