@@ -60,3 +60,7 @@
 
 * [Github](operations/github.md)
 
+---
+
+* [Glossary](glossary.md)
+
