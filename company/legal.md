@@ -1,0 +1,6 @@
+# Legal
+
+License information
+
+DAO
+
