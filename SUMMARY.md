@@ -45,7 +45,7 @@
 
 ## School of Athens
 
-* [Introduction](school-of-athens/readme.md)
+* [Introduction](school-of-athens/school-of-athens.md)
 * [Github Guide](school-of-athens/github-guide.md)
 * [Clojurefam](school-of-athens/clojurefam.md)
 * [Onboarding for New Clojurians](school-of-athens/onboarding-for-new-clojurians.md)
