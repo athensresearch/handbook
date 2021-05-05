@@ -4,6 +4,10 @@ We use GitBook for all Athens documentation. Join our GitBook Follow [this link]
 
 [https://app.gitbook.com/invite/athensresearch?invite=-MZsjKCJf20BrYixq610](https://app.gitbook.com/invite/athensresearch?invite=-MZsjKCJf20BrYixq610)
 
+I got big ideas. 
+
+
+
 ## Contributing as a Writer
 
 With write access to this gitbook \([https://docs.gitbook.com/collaboration/team-management](https://docs.gitbook.com/collaboration/team-management)\)
