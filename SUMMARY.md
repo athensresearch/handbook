@@ -12,6 +12,7 @@
     * [Backlinks](for-users/athens-guide/feature-list/backlinks.md)
     * [Block References](for-users/athens-guide/feature-list/block-references.md)
     * [Import](for-users/athens-guide/feature-list/import.md)
+    * [Keyboard shortcuts](for-users/athens-guide/feature-list/keyboard-shortcuts.md)
   * [Sample Use Cases](for-users/athens-guide/sample-use-cases.md)
 * [Awesome-Athens](for-users/awesome-athens.md)
 
