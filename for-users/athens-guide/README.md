@@ -1,40 +1,43 @@
 ---
-description: This is the guide for how to use Athens
+description: >-
+  Curious about how to use Athens, or want to dig into a specific feature?
+  Explore from the basics, which covers your first 15 minutes, through advanced
+  workflows.
 ---
 
 # Athens Guide
 
-## What is Athens?
+### What is Athens?
 
-In it's current state, Athens is an [outliner](https://en.wikipedia.org/wiki/Outliner) built on a [graph database](https://en.wikipedia.org/wiki/Graph_database). 
+In its current state, Athens is an [outliner](https://en.wikipedia.org/wiki/Outliner) built on a [graph database](https://en.wikipedia.org/wiki/Graph_database). 
 
-## The Basics
+## Start here
 
-blocks
+If you're new to Athens, read our [basics guide](the-basics.md). In just a few minutes, you learn how to navigate your growing knowledge graph, manipulating and formatting blocks, and creating bidirectional links.
 
 ## Advanced Usage
 
+Coming soon!
 
+### Features List
 
-## Resources
+#### block embed
+
+#### latex support
+
+#### slash command menu
+
+#### left sidebar
+
+#### right sidebar
+
+#### [Keyboard shortcuts](feature-list/keyboard-shortcuts.md)
+
+### Resources
 
 * [https://github.com/ddauber/athens-cheat-sheet/blob/main/athens\_cheatsheet.pdf](https://github.com/ddauber/athens-cheat-sheet/blob/main/athens_cheatsheet.pdf)
 
-## Links
 
-
-
-## Features List
-
-### block embed
-
-### latex support
-
-### slash command menu
-
-### left sidebar
-
-### right sidebar
 
 
 
