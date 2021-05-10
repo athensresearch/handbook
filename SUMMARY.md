@@ -5,11 +5,11 @@
 ## For Users
 
 * [Athens Guide](for-users/athens-guide/README.md)
-  * [The Basics](for-users/athens-guide/the-basics.md)
+  * [The basics](for-users/athens-guide/the-basics.md)
   * [Advanced Usage](for-users/athens-guide/advanced-usage.md)
-  * [Feature List](for-users/athens-guide/feature-list/README.md)
-    * [Daily Notes](for-users/athens-guide/feature-list/daily-notes.md)
-    * [Backlinks](for-users/athens-guide/feature-list/backlinks.md)
+  * [Features](for-users/athens-guide/feature-list/README.md)
+    * [Daily notes](for-users/athens-guide/feature-list/daily-notes.md)
+    * [Bidirectional links](for-users/athens-guide/feature-list/backlinks.md)
     * [Block References](for-users/athens-guide/feature-list/block-references.md)
     * [Import](for-users/athens-guide/feature-list/import.md)
     * [Keyboard shortcuts](for-users/athens-guide/feature-list/keyboard-shortcuts.md)

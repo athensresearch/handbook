@@ -19,7 +19,11 @@ If you're new to Athens, read our [basics guide](the-basics.md). In just a few m
 
 Coming soon!
 
-### Features List
+### Features
+
+#### [Daily notes](feature-list/daily-notes.md)
+
+#### [Bidirectional links](feature-list/backlinks.md)
 
 #### block embed
 

@@ -5,11 +5,11 @@ description: >-
   knowledge graph.
 ---
 
-# The Basics
+# The basics
 
 ### Athens starts with a daily note
 
-Every time you open Athens, you'll be in the daily note for that day. This is a unique page for that particular date, and while it seems like Athens wants you to write a traditional journal, you don't have to go down that route.
+Every time you open Athens, you'll be in the [daily note](feature-list/daily-notes.md) for that day. This is a unique page for that particular date, and while it seems like Athens wants you to write a traditional journal, you don't have to go down that route.
 
 ![The daily note in Athens](https://user-images.githubusercontent.com/1153921/116891070-26b11f00-abe3-11eb-8e7c-466bdb2ccd9d.png)
 
@@ -27,11 +27,11 @@ Blocks are way more than text. Hit `/` to see all the other types of blocks, lik
 
 ### Link between pages to build your graph
 
-Athens' magic is in the links. To create a link, type `[[` and then the name of the page you want to link to. No other pages yet? No worries. Type the name of a new page, then hit `Enter`. Click on the link to jump to your new page.
+Athens' magic is in the [links](feature-list/backlinks.md). To create a link, type `[[` and then the name of the page you want to link to. No other pages yet? No worries. Type the name of a new page, then hit `Enter`. Click on the link to jump to your new page.
 
 ![Creating links between pages](https://user-images.githubusercontent.com/1153921/117019096-f41e2980-aca9-11eb-871b-69075c67de4d.gif)
 
-Check out the **Linked References** section at the bottom of every page. See how your first page is mentioned here? As you create links, Athens builds connections between pages and then shows you all the _pages linked to the current page_. These two pages are now part of the same "flow" of information.
+Check out the [**Linked References**](feature-list/backlinks.md#linked-references) section at the bottom of every page. See how your first page is mentioned here? As you create links, Athens builds connections between pages and then shows you all the _pages linked to the current page_. These two pages are now part of the same "flow" of information.
 
 ![An example of Linked References](https://user-images.githubusercontent.com/1153921/117019034-e799d100-aca9-11eb-963e-458eeffef1f9.png)
 

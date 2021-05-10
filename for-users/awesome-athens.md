@@ -10,7 +10,8 @@ awesome-athens community prep doc here: [https://roamresearch.com/\#/app/athensr
 
 ## Articles
 
-* [https://blakestephenanderson.medium.com/how-i-became-more-productive-during-the-pandemic-ab5cb68c0d9f](https://blakestephenanderson.medium.com/how-i-became-more-productive-during-the-pandemic-ab5cb68c0d9f)
+* [Get started with Athens](https://joelhans.com/articles/get-started-athens) 
+* [How I became more productive during the pandemic](https://blakestephenanderson.medium.com/how-i-became-more-productive-during-the-pandemic-ab5cb68c0d9f)
 
 ## Text Expanders
 
