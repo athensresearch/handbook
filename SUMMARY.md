@@ -9,7 +9,7 @@
   * [Advanced Usage](for-users/athens-guide/advanced-usage.md)
   * [Features](for-users/athens-guide/feature-list/README.md)
     * [Daily notes](for-users/athens-guide/feature-list/daily-notes.md)
-    * [Bidirectional links](for-users/athens-guide/feature-list/backlinks.md)
+    * [Bidirectional links](for-users/athens-guide/feature-list/bidirectional-links.md)
     * [Block References](for-users/athens-guide/feature-list/block-references.md)
     * [Import](for-users/athens-guide/feature-list/import.md)
     * [Keyboard shortcuts](for-users/athens-guide/feature-list/keyboard-shortcuts.md)

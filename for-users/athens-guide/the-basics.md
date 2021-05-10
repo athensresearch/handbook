@@ -27,11 +27,11 @@ Blocks are way more than text. Hit `/` to see all the other types of blocks, lik
 
 ### Link between pages to build your graph
 
-Athens' magic is in the [links](feature-list/backlinks.md). To create a link, type `[[` and then the name of the page you want to link to. No other pages yet? No worries. Type the name of a new page, then hit `Enter`. Click on the link to jump to your new page.
+Athens' magic is in the [links](feature-list/bidirectional-links.md). To create a link, type `[[` and then the name of the page you want to link to. No other pages yet? No worries. Type the name of a new page, then hit `Enter`. Click on the link to jump to your new page.
 
 ![Creating links between pages](https://user-images.githubusercontent.com/1153921/117019096-f41e2980-aca9-11eb-871b-69075c67de4d.gif)
 
-Check out the [**Linked References**](feature-list/backlinks.md#linked-references) section at the bottom of every page. See how your first page is mentioned here? As you create links, Athens builds connections between pages and then shows you all the _pages linked to the current page_. These two pages are now part of the same "flow" of information.
+Check out the [**Linked References**](feature-list/bidirectional-links.md#linked-references) section at the bottom of every page. See how your first page is mentioned here? As you create links, Athens builds connections between pages and then shows you all the _pages linked to the current page_. These two pages are now part of the same "flow" of information.
 
 ![An example of Linked References](https://user-images.githubusercontent.com/1153921/117019034-e799d100-aca9-11eb-963e-458eeffef1f9.png)
 

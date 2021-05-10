@@ -23,7 +23,7 @@ Coming soon!
 
 #### [Daily notes](feature-list/daily-notes.md)
 
-#### [Bidirectional links](feature-list/backlinks.md)
+#### [Bidirectional links](feature-list/bidirectional-links.md)
 
 #### block embed
 
