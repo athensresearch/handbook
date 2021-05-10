@@ -1,5 +1,15 @@
 # Clojurefam
 
+_5/10/2021 Update_
+
+* This doc has been imported from [https://github.com/athensresearch/ClojureFam](https://github.com/athensresearch/ClojureFam)
+* all docs have been migrated from clojurefam repo
+* for next step, we might like to rename clojurefam repo to school of athens for use as a general progress tracker for learners
+
+\_\_
+
+
+
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Clojure_logo.svg/256px-Clojure_logo.png)
 
  [![Join us on Discord](https://img.shields.io/discord/708122962422792194?label=discord&logo=Discord)](https://discord.gg/5jVXv5A)
@@ -7,14 +17,6 @@
 > “The object of education is to teach us to love what is beautiful.”
 
 — Plato, _The Republic_
-
-## \*5/10/2021 Update\*
-
-Notes
-
-* This doc has been imported from [https://github.com/athensresearch/ClojureFam](https://github.com/athensresearch/ClojureFam)
-* all docs have been migrated from clojurefam repo
-* for next step, we might like to rename clojurefam repo to school of athens for use as a general progress tracker for learners
 
 ## About
 
