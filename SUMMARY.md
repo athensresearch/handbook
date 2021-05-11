@@ -10,6 +10,7 @@
   * [Features](for-users/athens-guide/feature-list/README.md)
     * [Daily notes](for-users/athens-guide/feature-list/daily-notes.md)
     * [Bidirectional links](for-users/athens-guide/feature-list/bidirectional-links.md)
+    * [Block Embed](for-users/athens-guide/feature-list/block-embed.md)
     * [Block references](for-users/athens-guide/feature-list/block-references.md)
     * [Import](for-users/athens-guide/feature-list/import.md)
     * [Keyboard shortcuts](for-users/athens-guide/feature-list/keyboard-shortcuts.md)
