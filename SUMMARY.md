@@ -64,6 +64,7 @@
 ## Operations
 
 * [Github](operations/github.md)
+* [Frequently Asked Questions \(FAQ\)](operations/frequently-asked-questions-faq.md)
 
 ---
 
