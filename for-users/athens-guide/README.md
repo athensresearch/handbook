@@ -25,6 +25,8 @@ Coming soon!
 
 #### [Bidirectional links](feature-list/bidirectional-links.md)
 
+#### [Block references](feature-list/block-references.md)
+
 #### block embed
 
 #### latex support
