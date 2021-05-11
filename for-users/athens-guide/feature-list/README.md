@@ -1,4 +1,12 @@
 # Features
 
-should be an index here with links to individual pages which can describe use cases
+[Daily notes](daily-notes.md)
+
+[Bidirectional links](bidirectional-links.md)
+
+[Block references](block-references.md)
+
+[Import](import.md)
+
+[Keyboard shortcuts](keyboard-shortcuts.md)
 

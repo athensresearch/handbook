@@ -11,11 +11,13 @@ description: >-
 
 In its current state, Athens is an [outliner](https://en.wikipedia.org/wiki/Outliner) built on a [graph database](https://en.wikipedia.org/wiki/Graph_database). 
 
-## Start here
+### Start here
 
 If you're new to Athens, read our [basics guide](the-basics.md). In just a few minutes, you learn how to navigate your growing knowledge graph, manipulating and formatting blocks, and creating bidirectional links.
 
-## Advanced Usage
+If you're coming to Athens from Roam Research, check out the [import](feature-list/import.md) doc for details on how to bring your Roam content over to Athens.
+
+### Advanced Usage
 
 Coming soon!
 
@@ -26,6 +28,8 @@ Coming soon!
 #### [Bidirectional links](feature-list/bidirectional-links.md)
 
 #### [Block references](feature-list/block-references.md)
+
+#### [Import](feature-list/import.md)
 
 #### block embed
 
