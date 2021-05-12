@@ -6,7 +6,7 @@ description: 'Awesome-Athens: Curating the best Athens resources and augmentatio
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-awesome-athens community prep doc here: [https://roamresearch.com/\#/app/athensresearch/page/80eFliwIU](https://roamresearch.com/#/app/athensresearch/page/80eFliwIU)
+## Articles
 
 ## Articles
 

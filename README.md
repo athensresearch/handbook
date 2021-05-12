@@ -10,7 +10,7 @@ description: >-
 
 ## Introduction
 
-Athens Research is an open-source community dedicated to collaboration and learning. 
+Athens Research is an open-source community dedicated to developing the most powerful and transparent knowledge base.
 
 This is the Athens Research handbook which documents all of our operations. We are currently using [Gitlab's Handbook](https://about.gitlab.com/handbook/#company) as a template to get started. Please make a [pull request](https://github.com/athensresearch/handbook/pulls) for any suggested changes and improvements. For any questions use our [discussions board](https://github.com/athensresearch/athens/discussions) or join us on [discord](https://discord.gg/as9h8yHNfD). Athens is a knowledge graph.
 
