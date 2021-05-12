@@ -12,13 +12,7 @@ description: >-
 
 Athens Research is an open-source learning community collaborating to build the most powerful and transparent open-source, knowledge base. The result is Athens: a free knowledge graph for research and notetaking. 
 
-This is the Athens Research handbook which documents all of our operations. We are currently using [Gitlab's Handbook](https://about.gitlab.com/handbook/#company) as a template to get started. Please make a [pull request](https://github.com/athensresearch/handbook/pulls) for any suggested changes and improvements. For any questions use our [discussions board](https://github.com/athensresearch/athens/discussions) or join us on [discord](https://discord.gg/as9h8yHNfD). 
-
-## 
-
 ## How to Use the Handbook
-
-### Join the community
 
 This handbook documents operations at Athens Research, including: how to use Athens, how we build Athens together, how the Athens team operates, and how we help each other learn in the School of Athens. This is an open, living document created by a handful of volunteers that use and love Athens. The goal is to provide a key resource to grow the Athens community.
 
@@ -38,6 +32,10 @@ Questions? Ask anything in our [Discussion](https://github.com/athensresearch/at
 
 ### Referring to the Athens Handbook
 
+To reference the handbook use [https://app.gitbook.com/@athensresearch/s/handbook](https://app.gitbook.com/@athensresearch/s/handbook).
+
+The handbook can also be exported as a PDF. 
+
 ## Important Links
 
 * [Discord](https://discord.gg/as9h8yHNfD)
@@ -46,8 +44,6 @@ Questions? Ask anything in our [Discussion](https://github.com/athensresearch/at
   * [Project Board](https://github.com/athensresearch/athens/projects)
 * [Website](https://athens-research.ghost.io/)
 * [Public Roam Database](https://roamresearch.com/#/app/athensresearch/)
-
-### Product
 
 To reference the handbook use [https://app.gitbook.com/@athensresearch/s/handbook](https://app.gitbook.com/@athensresearch/s/handbook).
 
