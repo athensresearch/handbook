@@ -59,7 +59,7 @@
 
 * [Jeff](people/jeff.md)
 * [Johnny](people/johnny.md)
-* [Contributors](people/community-directory.md)
+* [Contributors](people/contributors.md)
 
 ## Operations
 
