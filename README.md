@@ -1,16 +1,12 @@
 ---
 description: >-
   Welcome to the Athens Research handbook. This handbook is a living document
-  that centralizes all documents for the . Contributions are welcome.
+  that centralizes all Athens documents. Contributions are welcome.
 ---
 
 # Welcome
 
 ![](.gitbook/assets/athens-logo.svg)
-
-![](.gitbook/assets/athens-logo.svg)
-
-## What is Athens Research?
 
 ## Introduction
 
