@@ -26,8 +26,6 @@ We have community calls on discord.
 
 ### Become a learner
 
-
-
 ## Important Links
 
 * [Discord](https://discord.gg/as9h8yHNfD)
@@ -46,6 +44,4 @@ We have community calls on discord.
 ### Community
 
 ### Product
-
-### 
 
