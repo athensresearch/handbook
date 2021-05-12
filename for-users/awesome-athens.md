@@ -1,8 +1,8 @@
 ---
-description: Curating the best Athens resources and augmentations
+description: 'Awesome-Athens: Curating the best Athens resources and augmentations'
 ---
 
-# Awesome-Athens
+# External Resources
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
