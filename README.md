@@ -30,12 +30,12 @@ We have community calls on discord.
 
 ## Important Links
 
-* Discord
-* Github
-  * Discussions
-  * Project Board x
-* Website
-* Public Roam Database
+* [Discord](https://discord.gg/as9h8yHNfD)
+* [Github](https://github.com/athensresearch/)
+  * [Discussions](https://github.com/athensresearch/athens/discussions)
+  * [Project Board](https://github.com/athensresearch/athens/projects)
+* [Website](https://athens-research.ghost.io/)
+* [Public Roam Database](https://roamresearch.com/#/app/athensresearch/)
 
 ## Frequently Asked Questions \(FAQ\)
 
