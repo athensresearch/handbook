@@ -1,4 +1,4 @@
-# Athens Components Documentation
+# Components Documentation
 
 Components are special syntaxes in blocks that allow complex interactions and data display from an end-user perspective. Currently we only support a couple of components \(see below\), but new components would be gradually added.
 

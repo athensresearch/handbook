@@ -1,4 +1,4 @@
-# Athens Block Parser Documentation
+# Block Parser Documentation
 
 The EBNF syntax of instaparse \(the parsing library Athens uses\) meant that if we need to increase the performance of the Athens block parser, the readability and extensibility must be reduced in favor of a less recursive parsing process.
 

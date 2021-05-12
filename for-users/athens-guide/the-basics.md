@@ -5,7 +5,7 @@ description: >-
   knowledge graph.
 ---
 
-# The basics
+# Basics
 
 ### Athens starts with a daily note
 

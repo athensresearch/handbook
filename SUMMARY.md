@@ -2,11 +2,12 @@
 
 * [Welcome](README.md)
 
-## For Users
+## Use Athens <a id="for-users"></a>
 
 * [Athens Guide](for-users/athens-guide/README.md)
-  * [The basics](for-users/athens-guide/the-basics.md)
-  * [Advanced Usage](for-users/athens-guide/advanced-usage.md)
+  * [Get Started](for-users/athens-guide/get-started.md)
+  * [Basics](for-users/athens-guide/the-basics.md)
+  * [Advanced](for-users/athens-guide/advanced-usage.md)
   * [Features](for-users/athens-guide/feature-list/README.md)
     * [All Pages](for-users/athens-guide/feature-list/all-pages.md)
     * [Bidirectional links](for-users/athens-guide/feature-list/bidirectional-links.md)
@@ -23,56 +24,49 @@
   * [Sample Use Cases](for-users/athens-guide/sample-use-cases.md)
 * [Awesome-Athens](for-users/awesome-athens.md)
 
-## Company
+## Build Athens <a id="contributing-1"></a>
+
+* [Code of Conduct](contributing-1/code-of-conduct.md)
+* [Contributing Code](contributing-1/contributing-code.md)
+* [Contributing Design](contributing-1/contributing-design.md)
+* [Contributing Documentation](contributing-1/contributing-documentation.md)
+* [Github Guide](contributing-1/github-guide.md)
+* [How to Contribute](contributing-1/contributing.md)
+
+## Athens Team Operations <a id="company"></a>
 
 * [Bounties](company/bounties.md)
 * [About](company/about.md)
 * [Vision](company/vision.md)
 * [Governance](company/governance.md)
 * [Hiring](company/hiring.md)
-* [Org Chart](company/org-chart.md)
+* [The Athens Team](company/org-chart/README.md)
+  * [Contributors](company/org-chart/contributors.md)
+  * [Johnny](company/org-chart/johnny.md)
+  * [Jeff](company/org-chart/jeff.md)
 
-## Contributing <a id="contributing-1"></a>
+## Develop Athens <a id="development"></a>
 
-* [Contributing Code](contributing-1/contributing-code.md)
-* [Contributing Design](contributing-1/contributing-design.md)
-* [Contributing Documentation](contributing-1/contributing-documentation.md)
-* [How to Contribute](contributing-1/contributing.md)
-* [Code of Conduct](contributing-1/code-of-conduct.md)
-
-## Development
-
+* [Development](development/development/README.md)
+  * [Product Development](development/development/product-development.md)
 * [Operations](development/operations.md)
-* [Product Development](development/product-development.md)
 * [Product Management](development/product-management.md)
-* [Athens Components Documentation](development/athens-components-documentation.md)
+* [Components Documentation](development/athens-components-documentation.md)
 * [Datascript Attribute Table](development/datascript-attribute-table.md)
 * [Architecture](development/architecture.md)
-* [Athens Block Parser Documentation](development/athens-block-parser-documentation.md)
-* [Development](development/development.md)
+* [Block Parser Documentation](development/athens-block-parser-documentation.md)
 
 ## School of Athens
 
 * [Introduction](school-of-athens/school-of-athens.md)
-* [Github Guide](school-of-athens/github-guide.md)
 * [Clojurefam](school-of-athens/clojurefam/README.md)
   * [Onboarding for New Clojurians](school-of-athens/clojurefam/onboarding-for-new-clojurians.md)
   * [Clojurefam Cohort and Team Rosters](school-of-athens/clojurefam/clojurefam-cohort-and-team-rosters.md)
   * [Learner Commits](school-of-athens/clojurefam/learner-commits.md)
-* [School of Athens FAQ](school-of-athens/school-of-athens-faq.md)
-
-## People
-
-* [Jeff](people/jeff.md)
-* [Johnny](people/johnny.md)
-* [Contributors](people/contributors.md)
-
-## Operations
-
-* [Github](operations/github.md)
 
 ---
 
-* [Frequently Asked Questions \(FAQ\)](frequently-asked-questions-faq.md)
+* [Frequently Asked Questions](frequently-asked-questions-faq/README.md)
+  * [School of Athens FAQ](frequently-asked-questions-faq/school-of-athens-faq.md)
 * [Glossary](glossary.md)
 
