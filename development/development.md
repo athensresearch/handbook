@@ -121,7 +121,18 @@ OS - Windows 10, MacOS Catalina v10.15.6
 
 * [ ] TODO vim-iced
 * [ ] TODO conjure
-* \[X\] TODO fireplace
+
+#### vim-codefmt
+
+Athens source code is formatted with `cljstyle`. The [vim-codefmt plugin](https://github.com/google/vim-codefmt#installation) can autoformat your changes.
+Follow the [installation instructions](https://github.com/google/vim-codefmt#installation), and set
+`cljstyle` as your Clojure formatter:
+
+```vimscript
+autocmd FileType clojure AutoFormatBuffer cljstyle
+```
+
+Your code will be autoformatted on every save.
 
 #### Fireplace
 
