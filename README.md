@@ -10,19 +10,11 @@ description: >-
 
 ## Introduction
 
-Athens Research is a community of learners dedicated to developing the most powerful and transparent open-source, knowledge base. 
+Athens Research is an open-source learning community collaborating to build the most powerful and transparent open-source, knowledge base. The result is Athens: a free knowledge graph for research and notetaking. 
 
 This is the Athens Research handbook which documents all of our operations. We are currently using [Gitlab's Handbook](https://about.gitlab.com/handbook/#company) as a template to get started. Please make a [pull request](https://github.com/athensresearch/handbook/pulls) for any suggested changes and improvements. For any questions use our [discussions board](https://github.com/athensresearch/athens/discussions) or join us on [discord](https://discord.gg/as9h8yHNfD). 
 
-## What is Athens?
-
-## Getting Started
-
-### Use Athens
-
-Athens is an open-source knowledge graph for research and notetaking
-
-[Download Athens](https://github.com/athensresearch/athens/releases) and get started with [our guide](for-users/athens-guide/).
+## 
 
 ## How to Use the Handbook
 
@@ -54,14 +46,6 @@ Questions? Ask anything in our [Discussion](https://github.com/athensresearch/at
   * [Project Board](https://github.com/athensresearch/athens/projects)
 * [Website](https://athens-research.ghost.io/)
 * [Public Roam Database](https://roamresearch.com/#/app/athensresearch/)
-
-## Frequently Asked Questions \(FAQ\)
-
-### General
-
-1. Question?
-
-### Community
 
 ### Product
 
