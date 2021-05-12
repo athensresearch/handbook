@@ -56,9 +56,9 @@
 * [Introduction](school-of-athens/school-of-athens.md)
 * [Github Guide](school-of-athens/github-guide.md)
 * [Clojurefam](school-of-athens/clojurefam/README.md)
+  * [Onboarding for New Clojurians](school-of-athens/clojurefam/onboarding-for-new-clojurians.md)
   * [Clojurefam Cohort and Team Rosters](school-of-athens/clojurefam/clojurefam-cohort-and-team-rosters.md)
   * [Learner Commits](school-of-athens/clojurefam/learner-commits.md)
-* [Onboarding for New Clojurians](school-of-athens/onboarding-for-new-clojurians.md)
 * [School of Athens FAQ](school-of-athens/school-of-athens-faq.md)
 
 ## People
