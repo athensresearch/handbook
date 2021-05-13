@@ -31,7 +31,7 @@ Coming soon!
 
 #### [Import](feature-list/import.md)
 
-#### block embed
+#### [Block Embeds](feature-list/block-embed.md)
 
 #### latex support
 
