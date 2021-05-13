@@ -10,11 +10,22 @@ awesome-athens community prep doc here: [https://roamresearch.com/\#/app/athensr
 
 ## Articles
 
-* [https://blakestephenanderson.medium.com/how-i-became-more-productive-during-the-pandemic-ab5cb68c0d9f](https://blakestephenanderson.medium.com/how-i-became-more-productive-during-the-pandemic-ab5cb68c0d9f)
-
-## Text Expanders
-
-* [https://espanso.org/](https://espanso.org/)
+* [https://blakestephenanderson.medium.com/how-i-became-more-productive-during-the-pandemic-ab5cb68c0d9f](https://blakestephenanderson.medium.com/how-i-became-more-productive-during-the-pandemic-ab5cb68c0d9f) by Blake Anderson
+* [Blocks in Roam I: Decluttering](https://costarichard.github.io/tools/roam/roam-blocks/) a way to think about blocks that also applies to athens
 
 ## Browser Extensions
+A list of browser extensions that work with Athens. 
+### [Roam Highlighter](https://chrome.google.com/webstore/detail/roam-highlighter/hponfflfgcjikmehlcdcnpapicnljkkc/related?hl=en)
+Extension for highlighting websites you visit in a format suitable for athens. You can create custom outputs of the highlights. Very handy. 
 
+### [Roamhelper](https://chrome.google.com/webstore/detail/roamhelper/bifjbefmihpccncjblbohkaehnofpepc/related)
+
+A simple extension that creates a link or iframe of the current page in an Athens friendly format
+## Text Expanders
+* [Expanso](https://espanso.org/)
+* [Alfred](https://www.alfredapp.com/)
+
+### Workflows
+* [SRS System Using Alfred](https://github.com/sawhney17/Athens-Research-SRS-System-With-Alfred) by Sawhney
+  * Can be easily ported to more expanders
+* [Excalidraw Integration via Alfred](https://github.com/sawhney17/athens-excalidraw) by Sawhney

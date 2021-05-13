@@ -1,8 +1,8 @@
 # Block Embed
 
-Similar to \[block references\], block embeds allow you to embed blocks into your current page. Each block embed can display the contents of a single block, and its children. The major differences from a block reference is that in a block embed, you can zoom into a bullet, view the children of a bullet and make edits to the original block.
+Similar to [block references](block-references.md), block embeds allow you to embed blocks into your current page. Each block embed can display the contents of a single block, and its children. The major differences from a block reference is that in a block embed, you can zoom into a bullet, view the children of a bullet and make edits to the original block.
 
-Unlike \[bidirectional links\], block embeds do not create connections between two pages in the Athens knowledge graph.
+Unlike [bidirectional links](bidirectional-links.md), block embeds do not create connections between two pages in the Athens knowledge graph.
 
 ## Create a block embed
 
