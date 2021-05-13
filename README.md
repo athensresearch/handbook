@@ -36,7 +36,7 @@ To reference the handbook use [https://app.gitbook.com/@athensresearch/s/handboo
 
 The handbook can also be exported as a PDF. 
 
-## Important Links
+## Let's Connect
 
 * [Discord](https://discord.gg/as9h8yHNfD)
 * [Github](https://github.com/athensresearch/)
@@ -44,8 +44,4 @@ The handbook can also be exported as a PDF.
   * [Project Board](https://github.com/athensresearch/athens/projects)
 * [Website](https://athens-research.ghost.io/)
 * [Public Roam Database](https://roamresearch.com/#/app/athensresearch/)
-
-To reference the handbook use [https://app.gitbook.com/@athensresearch/s/handbook](https://app.gitbook.com/@athensresearch/s/handbook).
-
-The handbook can also be exported as a PDF. 
 
