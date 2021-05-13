@@ -26,5 +26,5 @@ A simple extension that creates a link or iframe of the current page in an Athen
 * [Alfred](https://www.alfredapp.com/)
 
 ### Workflows
-* [SRS System Using Alfred](https://github.com/sawhney17/Athens-and-Roam-SRS-System-With-Alfred/) by Sawhney
+* [SRS System Using Alfred](https://github.com/sawhney17/Athens-Research-SRS-System-With-Alfred) by Sawhney
   * Can be easily ported to more expanders
