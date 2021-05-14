@@ -34,5 +34,6 @@ A simple extension that creates a link or iframe of the current page in an Athen
 
 * [SRS System Using Alfred](https://github.com/sawhney17/Athens-Research-SRS-System-With-Alfred) by Sawhney
   * Can be easily ported to more expanders
-* [Excalidraw Integration via Alfred](https://github.com/sawhney17/athens-excalidraw) by Sawhney
+* [Excalidraw Integration via Alfred or a System Extension](https://github.com/sawhney17/athens-excalidraw) by Sawhney
+* [Witeboard Integration via Alfred(macOS) or Expanso(Multi-Platform)](https://github.com/sawhney17/athens-witeboard) by Sawhney
 
