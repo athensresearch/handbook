@@ -5,7 +5,6 @@
 ## Use Athens <a id="for-users"></a>
 
 * [Athens Guide](for-users/athens-guide/README.md)
-  * [Get Started](for-users/athens-guide/get-started.md)
   * [Basics](for-users/athens-guide/the-basics.md)
   * [Advanced](for-users/athens-guide/advanced-usage.md)
   * [Features](for-users/athens-guide/feature-list/README.md)
@@ -35,11 +34,11 @@
 
 ## Athens Team Operations <a id="company"></a>
 
-* [Bounties](company/bounties.md)
 * [About](company/about.md)
 * [Vision](company/vision.md)
 * [Governance](company/governance.md)
-* [Hiring](company/hiring.md)
+* [Hiring](company/hiring/README.md)
+  * [Bounties](company/hiring/bounties.md)
 * [The Athens Team](company/org-chart/README.md)
   * [Contributors](company/org-chart/contributors.md)
   * [Johnny](company/org-chart/johnny.md)

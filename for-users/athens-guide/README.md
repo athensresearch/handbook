@@ -1,49 +1,73 @@
 ---
 description: >-
-  Curious about how to use Athens, or want to dig into a specific feature?
-  Explore from the basics, which covers your first 15 minutes, through advanced
-  workflows.
+  Curious about how to use Athens? This guide helps you download Athens for your
+  desktop, explores the basics of your first 15 minutes, and then walks through
+  more advanced ways of using Athens.
 ---
 
 # Athens Guide
 
 ## What is Athens?
 
-In its current state, Athens is an [outliner](https://en.wikipedia.org/wiki/Outliner) built on a [graph database](https://en.wikipedia.org/wiki/Graph_database).
+Athens is an open-source knowledge graph for research and notetaking. It was built as an [outliner](https://en.wikipedia.org/wiki/Outliner) built on a [graph database](https://en.wikipedia.org/wiki/Graph_database).
 
-## Start here
+Check out or demo in your local browser [here](https://athensresearch.github.io/athens). Keep in mind, no changes can be saved!
 
-If you're new to Athens, read our [basics guide](the-basics.md). In just a few minutes, you learn how to navigate your growing knowledge graph, manipulating and formatting blocks, and creating bidirectional links.
+Check out a video demo [here](https://www.loom.com/share/7f9876cb28bd455a9de52673efefa2c8%29). 
+
+Help us write this section [here](https://github.com/athensresearch/athens/issues/1180).
+
+## Installation Setup
+
+[Download Athens](https://github.com/athensresearch/athens/releases) and get started with [our guide](./).
+
+Help us write this section [here](https://github.com/athensresearch/athens/issues/1181). 
+
+## Getting Started
+
+If you're new to Athens, read our [basics guide](the-basics.md). In just a few minutes, you will learn how to navigate your growing knowledge graph, manipulating and formatting blocks, and creating bidirectional links.
 
 If you're coming to Athens from Roam Research, check out the [import](feature-list/import.md) doc for details on how to bring your Roam content over to Athens.
 
-## Advanced Usage
+## 
 
-Coming soon!
+## Cheatsheet
 
-## Features
+Download a PDF version of the Athens cheat sheet [here](https://github.com/ddauber/athens-cheat-sheet/blob/main/athens_cheatsheet.pdf). 
 
-### [Daily notes](feature-list/daily-notes.md)
+Help us write this section [here](https://github.com/athensresearch/athens/issues/1184).
 
-### [Bidirectional links](feature-list/bidirectional-links.md)
+Find us 
 
-### [Block references](feature-list/block-references.md)
+## Community Help
 
-### [Import](feature-list/import.md)
+Our community is active on [discord](https://discord.gg/as9h8yHNfD) and [github](https://github.com/athensresearch/athens/discussions).
 
-### [Block Embeds](feature-list/block-embed.md)
+Help us write this section [here](https://github.com/athensresearch/athens/issues/1183). 
 
-### latex support
+## Get Involved
 
-### slash command menu
+ -Share ideas, ask questions, and give feedback in Discord
 
-### left sidebar
+Insert some examples here.
 
-### right sidebar
+-Report bugs on Github
 
-### [Keyboard shortcuts](feature-list/keyboard-shortcuts.md)
+-Request and test new features
 
-## Resources
+-Help troubleshoot
 
-* [https://github.com/ddauber/athens-cheat-sheet/blob/main/athens\_cheatsheet.pdf](https://github.com/ddauber/athens-cheat-sheet/blob/main/athens_cheatsheet.pdf)
+-Contribute code
+
+-Help translate
+
+-Help document
+
+-Create templates and how-to guides
+
+-Mentor
+
+Help us write this section [here](https://github.com/athensresearch/athens/issues/1185).
+
+
 
