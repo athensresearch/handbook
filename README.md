@@ -31,10 +31,10 @@ The handbook can also be exported as a PDF.
 ## Join Us
 
 * [Discord](https://discord.gg/as9h8yHNfD)
-  * Community Calls
+  * [Community Calls](https://calendar.google.com/calendar/u/7?cid=NjVnZjNvY2JuczN0cmhqODZhbm8xbzA2NDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 * [Github](https://github.com/athensresearch/)
   * [Discussions](https://github.com/athensresearch/athens/discussions)
   * [Project Board](https://github.com/athensresearch/athens/projects)
 * [Website](https://athens-research.ghost.io/)
-* [Public Roam Database](https://roamresearch.com/#/app/athensresearch/)
+* [Athens Community Cooperative Notes Database](https://roamresearch.com/#/app/athensresearch/)
 

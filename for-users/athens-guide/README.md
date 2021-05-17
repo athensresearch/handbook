@@ -9,11 +9,13 @@ description: >-
 
 ## What is Athens?
 
-Athens is an open-source knowledge graph for research and notetaking. It was built as an [outliner](https://en.wikipedia.org/wiki/Outliner) built on a [graph database](https://en.wikipedia.org/wiki/Graph_database).
+Athens is an open-source knowledge graph for research and notetaking. It was built as an [outliner](https://en.wikipedia.org/wiki/Outliner) on a [graph database](https://en.wikipedia.org/wiki/Graph_database).
 
 Check out or demo in your local browser [here](https://athensresearch.github.io/athens). Keep in mind, no changes can be saved!
 
 Check out a video demo [here](https://www.loom.com/share/7f9876cb28bd455a9de52673efefa2c8%29). 
+
+![](../../.gitbook/assets/image.png)
 
 Help us write this section [here](https://github.com/athensresearch/athens/issues/1180).
 
@@ -25,19 +27,15 @@ Help us write this section [here](https://github.com/athensresearch/athens/issue
 
 ## Getting Started
 
-If you're new to Athens, read our [basics guide](the-basics.md). In just a few minutes, you will learn how to navigate your growing knowledge graph, manipulating and formatting blocks, and creating bidirectional links.
+If you're new to Athens, read our [basics guide](the-basics.md). In just a few minutes, you will learn how to navigate your growing knowledge graph, manipulate and format blocks, and create bidirectional links.
 
 If you're coming to Athens from Roam Research, check out the [import](feature-list/import.md) doc for details on how to bring your Roam content over to Athens.
-
-## 
 
 ## Cheatsheet
 
 Download a PDF version of the Athens cheat sheet [here](https://github.com/ddauber/athens-cheat-sheet/blob/main/athens_cheatsheet.pdf). 
 
 Help us write this section [here](https://github.com/athensresearch/athens/issues/1184).
-
-Find us 
 
 ## Community Help
 
