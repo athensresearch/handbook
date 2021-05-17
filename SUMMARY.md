@@ -26,11 +26,11 @@
 ## Build Athens <a id="contributing-1"></a>
 
 * [Code of Conduct](contributing-1/code-of-conduct.md)
+* [How to Contribute](contributing-1/contributing.md)
 * [Contributing Code](contributing-1/contributing-code.md)
 * [Contributing Design](contributing-1/contributing-design.md)
 * [Contributing Documentation](contributing-1/contributing-documentation.md)
 * [Github Guide](contributing-1/github-guide.md)
-* [How to Contribute](contributing-1/contributing.md)
 
 ## Athens Team Operations <a id="company"></a>
 
