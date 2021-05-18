@@ -25,6 +25,10 @@ Help us write this section [here](https://github.com/athensresearch/athens/issue
 
 Help us write this section [here](https://github.com/athensresearch/athens/issues/1181). 
 
+## Hosting Your Own Data
+
+Help us write this section here.
+
 ## Getting Started
 
 If you're new to Athens, read our [basics guide](the-basics.md). In just a few minutes, you will learn how to navigate your growing knowledge graph, manipulate and format blocks, and create bidirectional links.
