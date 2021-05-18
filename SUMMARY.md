@@ -43,6 +43,7 @@
   * [Contributors](company/org-chart/contributors.md)
   * [Johnny](company/org-chart/johnny.md)
   * [Jeff](company/org-chart/jeff.md)
+* [Meetings](company/meetings.md)
 
 ## Develop Athens <a id="development"></a>
 
