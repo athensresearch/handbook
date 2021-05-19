@@ -1,7 +1,7 @@
 ---
 description: >-
   Welcome to the Athens Research handbook. This handbook is a living document
-  that centralizes all Athens documents. Contributions are welcome.
+  that centralizes all our operations. Contributions are welcome.
 ---
 
 # Welcome
