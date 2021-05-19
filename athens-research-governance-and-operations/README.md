@@ -1,2 +1,0 @@
-# Athens Research \(Governance & Operations\)
-

@@ -1,2 +1,2 @@
-# Building Athens \(Build/Develop/Contribute\)
+# How to Contribute
 

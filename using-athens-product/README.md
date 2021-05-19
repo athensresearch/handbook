@@ -1,2 +1,2 @@
-# Using Athens \(Product\)
+# How to Use Athens
 
