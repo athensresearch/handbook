@@ -20,7 +20,7 @@ description: to be updated
   * Discord Terms of Service
   * Discord Privacy Policy
 
-If you disagree with Athens's values, Athens's Discord guidelines, or the official Discord policies, you have two options: [Voice or Exit](https://www.youtube.com/watch?v=cOubCHLXT6A).
+If you disagree with Athens's values, Athens's Discord guidelines, or the official Discord policies, you have two options: [Voice orI  Exit](https://www.youtube.com/watch?v=cOubCHLXT6A).
 
 ## Values
 

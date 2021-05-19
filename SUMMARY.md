@@ -20,7 +20,6 @@
     * [Keyboard shortcuts](for-users/athens-guide/feature-list/keyboard-shortcuts.md)
     * [Page](for-users/athens-guide/feature-list/page.md)
     * [Slash Commands](for-users/athens-guide/feature-list/slash-commands.md)
-  * [Sample Use Cases](for-users/athens-guide/sample-use-cases.md)
 * [Awesome Athens](for-users/awesome-athens.md)
 
 ## Build Athens <a id="contributing-1"></a>
