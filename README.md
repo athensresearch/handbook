@@ -31,15 +31,9 @@ The handbook can also be exported as a PDF.
 
 ## How to Update this Handbook
 
-If you use Athens, please consider helping us make the handbook better. When you see a way that we can improve, the easiest way is to leave a comment is by touching a paragraph with your mouse pointer and clicking the plus sign that appears next to the paragraph. You can also make suggestions with a [pull request](https://github.com/athensresearch/handbook/pulls). The content is maintained in our [Github repository](https://github.com/athensresearch/handbook). 
+If you use Athens, please consider helping us make the handbook better. When you see a way that we can improve, the easiest way is to leave a comment is by touching a paragraph with your mouse pointer and clicking the plus sign that appears next to the paragraph. You can also make suggestions by using the Github platform. Github helps developers manage software projects by allowing many contributors to work together at the same time by participating in discussions, submitting issues like bug reports, making [pull requests](https://github.com/athensresearch/handbook/pulls), and committing changes. Check out \[Github for Beginners\] if you want to learn more. The content of this handbook is maintained in our [Github repository](https://github.com/athensresearch/handbook). 
 
-## Join Us
+## Other Open-Source Handbooks
 
-* [Discord](https://discord.gg/as9h8yHNfD)
-  * [Community Calls](https://calendar.google.com/calendar/u/7?cid=NjVnZjNvY2JuczN0cmhqODZhbm8xbzA2NDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-* [Github](https://github.com/athensresearch/)
-  * [Discussions](https://github.com/athensresearch/athens/discussions)
-  * [Project Board](https://github.com/athensresearch/athens/projects)
-* [Website](https://athens-research.ghost.io/)
-* [Athens Community Cooperative Notes Database](https://roamresearch.com/#/app/athensresearch/)
+* [Gitlab Handbook](https://about.gitlab.com/handbook/)
 
