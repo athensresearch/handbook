@@ -58,11 +58,11 @@
 
 ## Help
 
+* [Contact Us](help/contact-us.md)
 * [Frequently Asked Questions](help/frequently-asked-questions-faq/README.md)
   * [General Questions](help/frequently-asked-questions-faq/general-questions.md)
   * [Community Questions](help/frequently-asked-questions-faq/community-questions.md)
   * [Product Questions](help/frequently-asked-questions-faq/product-questions.md)
   * [School of Athens FAQ](help/frequently-asked-questions-faq/school-of-athens-faq.md)
 * [Glossary](help/glossary.md)
-* [Contact Us](help/contact-us.md)
 
