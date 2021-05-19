@@ -5,7 +5,7 @@ description: >-
   more advanced ways of using Athens.
 ---
 
-# Athens Guide
+# Athens Guide Book
 
 ## What is Athens?
 

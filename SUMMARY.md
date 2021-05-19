@@ -3,7 +3,7 @@
 * [Welcome](README.md)
 * [How to Use Athens](using-athens-product/README.md)
   * [Getting Started](using-athens-product/getting-started.md)
-  * [Athens Guide](using-athens-product/athens-guide/README.md)
+  * [Athens Guide Book](using-athens-product/athens-guide/README.md)
     * [Basics](using-athens-product/athens-guide/the-basics.md)
     * [Advanced](using-athens-product/athens-guide/advanced-usage.md)
     * [Features](using-athens-product/athens-guide/feature-list/README.md)
@@ -58,7 +58,7 @@
 
 ## Help
 
-* [Contact Us](help/contact-us.md)
+* [Connect with Us](help/contact-us.md)
 * [Frequently Asked Questions](help/frequently-asked-questions-faq/README.md)
   * [General Questions](help/frequently-asked-questions-faq/general-questions.md)
   * [Community Questions](help/frequently-asked-questions-faq/community-questions.md)
