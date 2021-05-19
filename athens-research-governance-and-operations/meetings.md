@@ -1,10 +1,12 @@
-# Meetings
+# Communication
 
-## Community Call
+## Meetings
+
+### Community Call
 
 Every Sunday at 11am Pacific. Can be about engineering, announcements, special guest speakers, or undirected! These are recorded for community-members who cannot make them. Post questions and comments in the \#meeting-chat channel if it's easier.
 
-## Standup
+### Standup
 
 Every weekday morning at 8:30am Pacific.
 

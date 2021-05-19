@@ -1,2 +1,8 @@
-# Policies
+# Legal
+
+## License Information
+
+## Policies
+
+## DAO
 

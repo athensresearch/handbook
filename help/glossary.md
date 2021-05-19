@@ -1,8 +1,8 @@
 # Glossary
 
-## Glossary
+epic
 
-### knowledge graph
+knowledge graph
 
 graph of knowledge
 
