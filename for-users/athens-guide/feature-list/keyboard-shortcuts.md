@@ -12,6 +12,9 @@ description: >-
 | :--- | :--- | :--- |
 | `Ctrl` + `k` | `⌘` + `k` | Search for or create a new page |
 | `Alt` + `d` | `Option` + `d` | Jump to the [daily note](daily-notes.md) |
+| `Alt` + `g` | `Option` + `g` | Jump to the [graph visualization](graph-visualization.md) |
+| `Alt` + `a` | `Option` + `a` | Jump to the [all-pages](all-pages.md) view |
+| `Ctrl` + `,` | `⌘` + `\` | Open the settings view |
 | `Ctrl` + `\` | `⌘` + `\` | Open shortcuts sidebar |
 | `Ctrl` + `Shift` + `\` | `⌘` + `Shift` + `\` | Open right sidebar |
 | `Alt` + `←` | `Option` + `←` | Back |
