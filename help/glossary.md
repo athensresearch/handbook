@@ -1,14 +1,22 @@
 # Glossary
 
-epic
+### bi-directional links
 
-knowledge graph
+### block references 
 
-graph of knowledge
+### Clojure
 
-### handbook
+### epic
 
-test
+### knowledge graph
+
+### graph of knowledge
+
+### learn-in-public
+
+### self-hosted server
+
+### test
 
 
 

@@ -47,7 +47,7 @@ Help us write this section [here](https://github.com/athensresearch/athens/issue
 
 Insert some examples here.
 
--Report bugs on Github
+-[Report problems](https://www.loom.com/share/e69857c0f65f4232ab10dd78f47c4c44) on Github
 
 -Request and test new features
 
