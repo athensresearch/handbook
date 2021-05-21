@@ -2,7 +2,7 @@
 
 * [Welcome](README.md)
 * [How to Use Athens](using-athens-product/README.md)
-  * [Getting Started](using-athens-product/getting-started.md)
+  * [Get Started with Athens](using-athens-product/getting-started.md)
   * [Athens Guide Book](using-athens-product/athens-guide/README.md)
     * [Basics](using-athens-product/athens-guide/the-basics.md)
     * [Advanced](using-athens-product/athens-guide/advanced-usage.md)
