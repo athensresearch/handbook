@@ -10,9 +10,11 @@
 
 ### knowledge graph
 
-### graph of knowledge
-
 ### learn-in-public
+
+### open source
+
+referring to a movement or community that opens access to software source code for possible modification and redistribution
 
 ### self-hosted server
 

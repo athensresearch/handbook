@@ -1,7 +1,5 @@
 # Learner Commits
 
-## 
-
 ## Contributions to Athens Source Code
 
 | Name | Date Started | First Commit |
