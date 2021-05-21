@@ -1,8 +1,6 @@
 # Onboarding for New Clojurians
 
-{% embed url="https://whimsical.com/VdBCZ1d33pzXR7H7h9uAen" %}
-
-![](../../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 ## Learning Clojure\(Script\) Fundamentals
 
