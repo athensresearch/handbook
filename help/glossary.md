@@ -1,6 +1,6 @@
 # Glossary
 
-### bi-directional links
+#### bi-directional links
 
 ### block references 
 
@@ -11,6 +11,8 @@
 ### knowledge graph
 
 ### learn-in-public
+
+local-first
 
 ### open source
 

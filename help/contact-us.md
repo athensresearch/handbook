@@ -19,6 +19,7 @@ Sponsor us on \[Open Collective\]. We will soon be migrating to \[Stripe\].
   * [Project Board](https://github.com/athensresearch/athens/projects)
 * [Website](https://athens-research.ghost.io/)
 * [Athens Community Cooperative Notes Database](https://roamresearch.com/#/app/athensresearch/)
+* researchathens@gmail.com
 
 ## Connect with the Athens Community
 

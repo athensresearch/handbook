@@ -46,6 +46,8 @@ Athens does this with **\[\[bidirectional links\]\]** and **\(\(block references
 
 ## Why Open-Source
 
+[https://ben.balter.com/2015/11/23/why-open-source/](https://ben.balter.com/2015/11/23/why-open-source/)
+
 We believe education is basic human right.
 
 We believe being a human means being a life-long learner.

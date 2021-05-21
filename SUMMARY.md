@@ -1,6 +1,9 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Athens Research Handbook](README.md)
+* [Welcome](welcome/README.md)
+  * [Code of Conduct](welcome/code-of-conduct.md)
+  * [Readme](welcome/readme.md)
 * [How to Use Athens](using-athens-product/README.md)
   * [Get Started with Athens](using-athens-product/getting-started.md)
   * [Athens Guide Book](using-athens-product/athens-guide/README.md)
@@ -22,7 +25,6 @@
   * [Resources](using-athens-product/resources/README.md)
     * [Awesome Athens](using-athens-product/resources/awesome-athens.md)
 * [How to Contribute](building-athens-build-develop-contribute/README.md)
-  * [Code of Conduct](building-athens-build-develop-contribute/code-of-conduct.md)
   * [Ways to Contribute](building-athens-build-develop-contribute/contributing/README.md)
     * [Contributing Design](building-athens-build-develop-contribute/contributing/contributing-design.md)
     * [Contributing Documentation](building-athens-build-develop-contribute/contributing/contributing-documentation.md)
@@ -70,4 +72,9 @@
   * [Product Questions](help/frequently-asked-questions-faq/product-questions.md)
   * [School of Athens FAQ](help/frequently-asked-questions-faq/school-of-athens-faq.md)
 * [Glossary](help/glossary.md)
+
+## ABOUT
+
+* [Using the Handbook](about/using-the-handbook.md)
+* [Untitled](about/untitled.md)
 
