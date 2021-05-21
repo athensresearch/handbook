@@ -8,11 +8,15 @@
 
 ### epic
 
+### knowledge base
+
 ### knowledge graph
 
 ### learn-in-public
 
 local-first
+
+memex
 
 ### open source
 
