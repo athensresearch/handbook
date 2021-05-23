@@ -3,7 +3,6 @@
 * [Athens Research Handbook](README.md)
 * [Welcome](welcome/README.md)
   * [Code of Conduct](welcome/code-of-conduct.md)
-  * [Readme](welcome/readme.md)
 * [How to Use Athens](using-athens-product/README.md)
   * [Get Started with Athens](using-athens-product/getting-started.md)
   * [Athens Guide Book](using-athens-product/athens-guide/README.md)

@@ -4,11 +4,20 @@ description: to be updated
 
 # Code of Conduct
 
-## Table of Contents
+## Summary
 
-* Values
-  * Collaboration
-  * Learning
+We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this community, participants agree to abide by the Athens Research Contributor Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. Any form of behavior to exclude, intimidate, or cause discomfort is a violation of the Code of Conduct. In order to foster a positive and professional learning environment we encourage the following kinds of behaviors:
+
+* Use welcoming and inclusive language
+* Be respectful of different viewpoints and experiences
+* Gracefully accept constructive criticism
+* Focus on what is best for the community
+* Show courtesy and respect towards other community members
+
+If you believe someone is violating the Code of Conduct, we ask that you report it at researchathens@gmail.com.
+
+## Update Log
+
 * Athens Discord
   * Inviting
   * Kicking and Banning
@@ -20,29 +29,7 @@ description: to be updated
   * Discord Terms of Service
   * Discord Privacy Policy
 
-If you disagree with Athens's values, Athens's Discord guidelines, or the official Discord policies, you have two options: [Voice orI  Exit](https://www.youtube.com/watch?v=cOubCHLXT6A).
-
-## Values
-
-> Don’t explain your philosophy. Embody it.
-
-— Epictetus
-
-Athens is not just a product. Athens is a community for collaboration and learning.
-
-When participating in the Athens community, you are agreeing to embody Athens's values. But values and communities become real through actions, not words. As Athens matures, we will add epics and hero's journeys that exemplify Athens's values to this page.
-
-### Collaboration
-
-> Associate with people who are likely to improve you.
-
-— Seneca
-
-### Learning
-
-> The object of education is to teach us to love what is beautiful.
-
-— Plato
+If you disagree with Athens's values, Athens's Discord guidelines, or the official Discord policies, you have two options: [Voice or Exit](https://www.youtube.com/watch?v=cOubCHLXT6A).
 
 ## Athens Discord
 

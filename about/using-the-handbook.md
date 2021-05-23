@@ -24,3 +24,7 @@ If you use Athens, please consider helping us make the handbook better. When you
 
 * [Gitlab Handbook](https://about.gitlab.com/handbook/)
 
+## About this Document
+
+This document and the structure for it is a collection of adaptations from a 
+

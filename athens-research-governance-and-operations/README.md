@@ -20,6 +20,26 @@ Life at Athens is all remote.
 
 ## Values
 
+> Don’t explain your philosophy. Embody it.
+
+— Epictetus
+
+Athens is not just a product. Athens is a community for collaboration and learning.
+
+When participating in the Athens community, you are agreeing to embody Athens's values. But values and communities become real through actions, not words. As Athens matures, we will add epics and hero's journeys that exemplify Athens's values to this page.
+
+### Collaboration
+
+> Associate with people who are likely to improve you.
+
+— Seneca
+
+### Learning
+
+> The object of education is to teach us to love what is beautiful.
+
+— Plato
+
 ### Open-Source
 
 ### Private

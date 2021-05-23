@@ -4,7 +4,7 @@
 
 Our [Discord community](https://discord.com/invite/as9h8yHNfD) is the space we collaborate and learn in public. It is mission-critical to foster a diverse culture focused on learning from one another. As an open-source project, we share our code: as an open-source community, we provide resources to learn how to code, share how we make decisions, and co-work in public. As an all-remote project, we have conversations openly and Discord makes it easy for new people to jump in with ideas. Join us for our next Community Call.
 
-This handbook is a living document centralizing all operations. It is maintained by everyone in the community; your contributions are welcome.
+This handbook is a living document centralizing all operations. It is maintained by everyone in the community; your contributions are welcome. All contributors must be prepared to follow our [Code of Conduct](https://athensresearch.gitbook.io/handbook/welcome/code-of-conduct). 
 
 * General
   * The Athens Handbook
