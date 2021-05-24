@@ -69,6 +69,7 @@
   * [Knowledge Management](learning-at-athens-academy-education/knowledge-management.md)
   * [Notetaking](learning-at-athens-academy-education/notetaking.md)
   * [Research](learning-at-athens-academy-education/research.md)
+  * [School of Design](learning-at-athens-academy-education/school-of-design.md)
 
 ## Help
 
