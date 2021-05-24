@@ -1,4 +1,4 @@
-# Get Started with Athens
+# Get Started
 
 ## Getting Started
 

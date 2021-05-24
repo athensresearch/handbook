@@ -16,7 +16,7 @@ To reference the handbook use [https://app.gitbook.com/@athensresearch/s/handboo
 
 The handbook can also be exported as a PDF. 
 
-## How to Update this Handbook
+## How to Make This Handbook Better
 
 If you use Athens, please consider helping us make the handbook better. When you see a way that we can improve, the easiest way is to leave a comment is by touching a paragraph with your mouse pointer and clicking the plus sign that appears next to the paragraph. You can also make suggestions by using the Github platform. Github helps developers manage software projects by allowing many contributors to work together at the same time by participating in discussions, submitting issues like bug reports, making [pull requests](https://github.com/athensresearch/handbook/pulls), and committing changes. Check out \[Github for Beginners\] if you want to learn more. The content of this handbook is maintained in our [Github repository](https://github.com/athensresearch/handbook). 
 

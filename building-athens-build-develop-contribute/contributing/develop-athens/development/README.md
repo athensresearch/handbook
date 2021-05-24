@@ -260,3 +260,7 @@ resolve #2
 
 This repo only allows those with merge permissions to "Squash and Merge" PRs. This makes reverts easier if they are needed.
 
+## Developer Resources
+
+* download [Sample Athens Databases](https://drive.google.com/drive/u/3/folders/1E8z-s33PfzNCGxEsZNQlB5niVq9bKQg0) from our google drive
+

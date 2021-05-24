@@ -10,8 +10,11 @@ This handbook is a living document centralizing all operations. It is maintained
   * The Athens Handbook
   * Welcome
     * Code of Conduct
+    * What is Athens Research
+    * Demo & Download
+    * Get Involved
   * How to Use Athens
-    * Get Started with Athens
+    * Get Started
     * Athens Guide Book
     * Resources
   * How to Contribute
@@ -23,8 +26,4 @@ This handbook is a living document centralizing all operations. It is maintained
   * Glossary
 * About
   * Using the Handbook
-
-
-
-## 
 
