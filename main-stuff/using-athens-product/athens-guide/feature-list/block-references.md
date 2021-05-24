@@ -18,13 +18,13 @@ Move between the items in the dropdown with the up and down arrow keys, then hit
 
 Once you move to a different block, the `(())` syntax turns into a block reference, which gets an orange underline to differentiate it from other blocks on your page.
 
-![](../../../.gitbook/assets/blocks_embed.png)
+![](../../../../.gitbook/assets/blocks_embed.png)
 
 ### Navigate to a block's parent page
 
 If you click on a block reference, Athens takes you to the zoomed-in view of the block in question.
 
-![](../../../.gitbook/assets/block-reference_zoom.png)
+![](../../../../.gitbook/assets/block-reference_zoom.png)
 
 Click the title above the block to navigate to that page, or use Linked References to jump to related pages in your knowledge graph.
 
@@ -34,5 +34,5 @@ Every time you reference a block, Athens puts a counter to its right to indicate
 
 Click on this counter to view all these links in the right sidebar.
 
-![](../../../.gitbook/assets/block-reference_links.png)
+![](../../../../.gitbook/assets/block-reference_links.png)
 

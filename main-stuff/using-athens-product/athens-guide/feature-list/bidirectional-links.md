@@ -33,7 +33,7 @@ As mentioned above, the links you create between pages are bidirectional, which 
 
 On the page being linked to, these links appear in the **Linked References** section below the outliner.
 
-![](../../../.gitbook/assets/links_linked-references.png)
+![](../../../../.gitbook/assets/links_linked-references.png)
 
 In this example, clicking on the **May 10, 2021** or **Website redesign** links take you directly to those pages.
 
@@ -43,7 +43,7 @@ Athens gathers **Unlinked References** any time a page has text that matches the
 
 For example, here's an unlinked reference to the **Zlatica** page from another page.
 
-![](../../../.gitbook/assets/links_unlinked-references.png)
+![](../../../../.gitbook/assets/links_unlinked-references.png)
 
 You can leave this unlinked, or you can click the **Link** button to automatically wrap the string in Athens' link syntax and create a new bidirectional link.
 

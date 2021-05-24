@@ -12,7 +12,7 @@ You'll download a `.zip` file, which you need to open/extract the `.edn` file ou
 
 In Athens, click on the merge icon in the top bar.
 
-![](../../../.gitbook/assets/import.png)
+![](../../../../.gitbook/assets/import.png)
 
 Click **Choose File**, then search for the `.edn` file on your system.
 
@@ -26,7 +26,7 @@ When importing pages that have the same title as an existing page in your Athens
 
 Athens creates a block with the text: `[[Roam Import]] [[DATE]] [[FILE.edn]]`, then nests all the imported content in that block.
 
-![](../../../.gitbook/assets/import_shared.png)
+![](../../../../.gitbook/assets/import_shared.png)
 
 This also creates pages for **Roam Import**, the date of the merge \(if the [daily note](daily-notes.md) doesn't already exist\), and the name of the imported file. Each of these can be useful to explore how your Roam graph was imported into Athens.
 

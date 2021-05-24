@@ -15,7 +15,7 @@ Check out or demo in your local browser [here](https://athensresearch.github.io/
 
 Check out a video demo [here](https://www.loom.com/share/7f9876cb28bd455a9de52673efefa2c8%29). 
 
-![](../../.gitbook/assets/image.png)
+![](../../../.gitbook/assets/image.png)
 
 Help us write this section [here](https://github.com/athensresearch/athens/issues/1180).
 
