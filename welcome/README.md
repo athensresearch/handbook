@@ -2,8 +2,6 @@
 
 * Code of Conduct
 * What is Athens Research?
-
-Demo & Download
-
-Get Involved
+* Demo & Download
+* Get Involved
 
