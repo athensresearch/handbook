@@ -8,9 +8,19 @@ Unlike [bidirectional links](bidirectional-links.md), block embeds do not create
 
 To create a block embed, hit the ~/~ key to open the slash menu and either filter the results by continuing to type or scroll till you find the block embed.
 
-![](../../../../.gitbook/assets/block-embed-create.png) Hit `Enter` or click to create an embed. A dropdown appears to help you search for an existing block you want to reference on your current page.
+![](../../../../.gitbook/assets/block-embed-create.png) 
 
-Move between the items in the dropdown with the up and down arrow keys, then hit ~Enter~ to select one, or click on the block you're looking for. ![](../../../../.gitbook/assets/block-embed-dropdown.png) When you click out of the block, you will see a block that is now embedded. ![](../../../../.gitbook/assets/block-embed-success.png) You can edit, zoom into a bullet, add links and create new bullets as well in the embed.
+Hit `Enter` or click to create an embed. A dropdown appears to help you search for an existing block you want to reference on your current page.
+
+Move between the items in the dropdown with the up and down arrow keys, then hit `Enter` to select one, or click on the block you're looking for. 
+
+![](../../../../.gitbook/assets/block-embed-dropdown.png) 
+
+When you click out of the block, you will see a block that is now embedded.
+
+ ![](../../../../.gitbook/assets/block-embed-success.png) 
+
+You can edit, zoom into a bullet, add links and create new bullets as well in the embed.
 
 ## Edit the content in a block embed
 
