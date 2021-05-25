@@ -1,3 +1,10 @@
+---
+description: >-
+  Athens Research publishes many types of documentation, from product usage
+  how-to guides to details on company hiring processes. Here's how to contribute
+  fixes and improvements across the board.
+---
+
 # Contributing Documentation
 
 ## Guidelines

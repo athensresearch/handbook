@@ -1,3 +1,10 @@
+---
+description: >-
+  We're still working on the details, but we'd love to see design-related
+  contributions from the Athens community. Start with Discord and the Athens
+  design system.
+---
+
 # Contributing Design
 
 * Join our [Discord](https://discord.gg/GCJaV3V) 👾 and see what's happening in the `#🖋-design` channel.

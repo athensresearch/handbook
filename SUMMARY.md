@@ -62,9 +62,10 @@
   * [Mentors](main-stuff/athens-research-governance-and-operations/mentors.md)
   * [Sales](main-stuff/athens-research-governance-and-operations/sales.md)
 * [How to Contribute](main-stuff/building-athens-build-develop-contribute/README.md)
+  * [Ways to Contribute](main-stuff/building-athens-build-develop-contribute/contributing.md)
   * [Contributing to Development](main-stuff/building-athens-build-develop-contribute/develop-athens/README.md)
-    * [Development](main-stuff/building-athens-build-develop-contribute/develop-athens/development/README.md)
-      * [Product Development](main-stuff/building-athens-build-develop-contribute/develop-athens/development/product-development.md)
+    * [Development](main-stuff/building-athens-build-develop-contribute/develop-athens/development.md)
+    * [Product Development](main-stuff/building-athens-build-develop-contribute/develop-athens/product-development.md)
     * [Operations](main-stuff/building-athens-build-develop-contribute/develop-athens/operations.md)
     * [Product Management](main-stuff/building-athens-build-develop-contribute/develop-athens/product-management.md)
     * [Components Documentation](main-stuff/building-athens-build-develop-contribute/develop-athens/athens-components-documentation.md)
@@ -73,7 +74,6 @@
     * [Block Parser Documentation](main-stuff/building-athens-build-develop-contribute/develop-athens/athens-block-parser-documentation.md)
   * [Contributing Documentation](main-stuff/building-athens-build-develop-contribute/contributing-documentation.md)
   * [Contributing Design](main-stuff/building-athens-build-develop-contribute/contributing-design.md)
-  * [Ways to Contribute](main-stuff/building-athens-build-develop-contribute/contributing.md)
 
 ## Help
 
