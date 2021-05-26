@@ -1,4 +1,4 @@
-# Product Questions
+# Product FAQ
 
 ## How do I report illicit use of Athens Research software?
 

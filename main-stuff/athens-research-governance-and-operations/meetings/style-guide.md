@@ -8,23 +8,25 @@ The Style Guide is followed across all Athens content including but not limited 
 
 This guide is a work in progress and additions are welcome. 
 
-Please note, Athens is a singular entity. Therefore, when referring to The Carpentries, verbs should be singular. 
+Please note, Athens is a singular entity. Therefore, when referring to Athens, verbs should be singular. 
 
 ## A
 
-### abbreviations and acronyms
+### Abbreviations and Acronyms
 
-### accents
+### Accents
 
-### alphabetizing
+### Alphabetizing
 
-### ampersand
+### Ampersand
 
-### apostrophes
+### Apostrophes
 
 ## B
 
-### bullet points
+### Bullet Points
 
 ## C
+
+### Capitalization
 

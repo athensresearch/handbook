@@ -1,4 +1,4 @@
-# General Questions
+# General FAQ
 
 ## What is the difference between Athens and Athens Research?
 

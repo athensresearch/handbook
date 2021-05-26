@@ -1,42 +1,54 @@
 # Glossary
 
-#### bi-directional links
+The following lists current terms used at Athens Research. 
 
-### block references 
+### Bi-directional Link
+
+A link that is valid in two directions. It contains a link to the pages or nodes that point to it and makes them visible.
+
+### Block 
+
+### Block Reference
+
+### Bug
+
+An obvious error that is typically a defect in the code. Changes required to accommodate unsupported third-party software are not considered bugs. 
 
 ### Clojure
 
-### epic
+### Epic
 
-### knowledge base
+### Iteration
 
-### knowledge graph
+A new version of a piece of software. Iterations allow improvements to quickly be made and offered each time minimally viable changes have been made.
 
-### learn-in-public
+### Knowledge Base
 
-local-first
+### Knowledge Graph
 
-memex
+### Learn-in-Public
 
-### open source
+Sharing what you are working on with other people and being transparent about your personal growth with a public audience. Athens contributors are encouraged to share what they are working on in Discord through daily check-ins and sharing your screen as you work and learn. Learning in public supports greater accountability and is a shared value by many developers and open-source communities.
+
+### LHS
+
+Left-Hand Sidebar
+
+### Local-First
+
+### Memex
+
+### Node
+
+### Open Source
 
 referring to a movement or community that opens access to software source code for possible modification and redistribution
 
-### outliner
+### Outliner
 
-### self-hosted server
+### Self-Hosted Server
 
-### test
+### User
 
-
-
-```text
-# knowledge graph
-Definition for this term
-
-# handbook
-With it's definition, this can contain bold text and all other kinds of inline markup ...
-```
-
-
+The primary external audience. A user could also be a buyer or a customer but does not include internal staff. 
 

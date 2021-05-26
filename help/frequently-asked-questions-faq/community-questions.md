@@ -1,4 +1,4 @@
-# Community Questions
+# Community FAQ
 
 ## How Can I Contribute to Athens Research?
 

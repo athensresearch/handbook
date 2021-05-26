@@ -1,2 +1,2 @@
-# School of Athens FAQ
+# Athens Academy FAQ
 
