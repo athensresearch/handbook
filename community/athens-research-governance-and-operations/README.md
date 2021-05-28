@@ -1,2 +1,0 @@
-# About Athens Research
-
