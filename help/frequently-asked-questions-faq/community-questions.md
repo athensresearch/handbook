@@ -1,8 +1,6 @@
-# Community FAQ
+# Community Questions
 
-## How Can I Contribute to Athens Research?
+## How can I contribute to Athens Research?
 
-## What is Clojure?
-
-## Why should I learn Clojure?
+## 
 

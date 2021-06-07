@@ -1,4 +1,4 @@
-# Product FAQ
+# Product Questions
 
 ## How can I export my Athens database?
 
@@ -20,9 +20,7 @@
 
 ## How do I troubleshoot?
 
-## How can I be assured that my data is not locked in commercial software?
-
-## Is my data safe and private?
+## 
 
 
 

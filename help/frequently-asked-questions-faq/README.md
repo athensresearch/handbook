@@ -1,7 +1,8 @@
 # Frequently Asked Questions
 
-* [General Questions](general-questions.md)
+* [General Questions](general-questions/)
+  * Enterprise Questions
 * [Community Questions](community-questions.md)
 * [Product Questions](product-questions.md)
-* [School of Athens FAQ](school-of-athens-faq.md)
+* [Athens Academy Questions](https://app.gitbook.com/@athensresearch/s/handbook/~/drafts/-MadkJHKI62xFwv8pLxV/v/main/help/frequently-asked-questions-faq/school-of-athens-faq)
 
