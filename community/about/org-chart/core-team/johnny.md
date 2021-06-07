@@ -1,4 +1,4 @@
-# Johnny
+# Johnny Morabito
 
 Hi, I'm John 'Johnny' Morabito. I'm currently overseeing and managing operations and information channels in our open source community while learning product design under Shanberg.
 

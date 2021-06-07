@@ -1,5 +1,2 @@
 # Core Team
 
-* Jeff
-* Johnny
-
