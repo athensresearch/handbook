@@ -11,9 +11,9 @@ description: >-
 * **Title**: Chief of Staff
 * **Area of focus**: Operations
 * **Location**: Washington, D.C.
-* **Discord**: @mateic
-* **GitHub**: @mateicanavra
-* **Twitter**: @\_mateic
+* \*\*\*\*[**Discord**](https://discord.gg/as9h8yHNfD): @mateic
+* **GitHub**: [@mateicanavra](https://github.com/mateicanavra)
+* **Twitter**: [@\_mateic](https://twitter.com/_mateic)
 
 ### **Ask Me About**
 

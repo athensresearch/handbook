@@ -1,6 +1,20 @@
+---
+description: >-
+  Jeff Tang is the author of Athens and founder of Athens Research. He's
+  responsible for managing the open-source project and the people who work on
+  it.
+---
+
 # Jeff Tang
 
-## **Bio**
+* **Name**: Jeff Tang
+* **Title**: Founder
+* **Area of focus**: All things Athens
+* \*\*\*\*[**Discord**](https://discord.gg/as9h8yHNfD): @Jeff Tang 🏛
+* **GitHub**: [@tangjeff0](https://github.com/tangjeff0)
+* **Twitter**: [@tangjeff0](https://twitter.com/tangjeff0)
+
+### **Bio**
 
 I was born and raised in Cincinnati, Ohio. My parents migrated from China 30 years ago to pursue the American Dream. Why did they come to Cincinnati? The University of Cincinnati was the only school to give my mom a scholarship. She went on to get a PhD in chemistry. My dad also got a scholarship, but at Xavier University. He was the first Asian to get an MBA from Xavier. My mom is now a chemist, and my dad is a bookkeeper, Chinese-American translator, and small-time landlord. I like to think I get book smarts from my mom and street smarts from my dad.
 
@@ -16,7 +30,7 @@ I was rejected because I didn't have Clojure experience. I still wanted to work 
 
 Open-source was the only option. Now, I have no doubt OSS will lead to the best product, platform, and community.
 
-## Communication Style
+#### Communication Style
 
 I am generally direct when I communicate. I try to "get to the point" if there is one. I think I am pretty good at being direct without being rude, but please let me know if I am and I will apologize and try to correct it.
 
@@ -24,13 +38,13 @@ Sometimes I do not explain my reasoning or ideas enough. Please interrupt me to 
 
 I can speak authoritatively. This is good when I am right and bad when I am wrong. Don't let my confident tone convince you of what I'm saying if it doesn't make sense from first principles.
 
-## **Strengths**
+#### **Strengths**
 
 I learn really fast. I believe everything boils down to skill acquisition and learning. I believe all learning is the same, regardless if it is physical, mental, or psychological. I am mostly a self-taught programmer. Athens is my first Clojure project.
 
 My dream is for everyone to learn how to learn anything. If I ever write a book, it will be called "Learning How to Learn."
 
-## Weaknesses
+#### Weaknesses
 
 My greatest weakness is my ego/pride. The Ancient Greeks called this hubris. They illustrate this in the story of Icarus, who flew too close to the sun. Sometimes I push the limits too hard, and I hurt myself, such as when I hurt myself lifting too much or overworking.
 

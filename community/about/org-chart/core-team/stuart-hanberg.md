@@ -10,8 +10,8 @@ description: >-
 * **Name**: Stuart Hanberg
 * **Area of focus**: Design
 * **Location**: Boston, Massachusetts, USA 🇺🇸
-* **Discord**: shanberg
-* **GitHub**: [https://github.com/shanberg](https://github.com/shanberg)​
+* \*\*\*\*[**Discord**](https://discord.gg/as9h8yHNfD): shanberg
+* **GitHub**: [@shanberg](https://github.com/shanberg)​
 
 ### Ask me about <a id="ask-me-about"></a>
 

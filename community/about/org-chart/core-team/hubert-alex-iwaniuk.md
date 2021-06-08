@@ -10,8 +10,8 @@ description: >-
 * **Title**: Senior Engineer
 * **Area of focus**: All things software and process around it
 * **Location**: The Netherlands 🇳🇱
-* **Discord**: alex-i
-* **GitHub**: [https://github.com/neotyk](https://github.com/neotyk)
+* \*\*\*\*[**Discord**](https://discord.gg/as9h8yHNfD): alex-i
+* **GitHub**: [@neotyk](https://github.com/neotyk)
 
 ### **Ask me about**
 

@@ -9,11 +9,11 @@ description: >-
 
 * **Name**: Joel Hans
 * **Title**: Head of Community
-* **Area of focus**: People and processes around community & content
+* **Area of focus**: Community
 * **Location**: Tucson, Arizona, USA 🇺🇸
-* **Discord**: joelhans
-* **GitHub**: [https://github.com/joelhans/](https://github.com/joelhans/)
-* **Twitter**: [https://twitter.com/joelhans](https://twitter.com/joelhans)
+* \*\*\*\*[**Discord**](https://discord.gg/as9h8yHNfD): @joelhans
+* **GitHub**: [@joelhans](https://github.com/joelhans/)
+* **Twitter**: [@joelhans](https://twitter.com/joelhans)
 
 ### Ask me about
 
