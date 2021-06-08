@@ -1,6 +1,6 @@
 ---
 description: >-
-  Jeff Tang is the author of Athens and founder of Athens Research. He's
+  Jeff Tang is the author of Athens and founder and CEO of Athens Research. He's
   responsible for managing the open-source project and the people who work on
   it.
 ---
@@ -8,11 +8,19 @@ description: >-
 # Jeff Tang
 
 * **Name**: Jeff Tang
-* **Title**: Founder
-* **Area of focus**: All things Athens
+* **Title**: CEO
+* **Area of focus**: Product, engineering, community, operations
+* **Location**: Nomadic 🚣
 * \*\*\*\*[**Discord**](https://discord.gg/as9h8yHNfD): @Jeff Tang 🏛
 * **GitHub**: [@tangjeff0](https://github.com/tangjeff0)
 * **Twitter**: [@tangjeff0](https://twitter.com/tangjeff0)
+* **Pronouns**: he/him
+
+### Ask me about
+
+* Learning and productivity
+* Startups and tech
+* Please DM me about anything. If I don't respond, just follow-up after a day or so!
 
 ### **Bio**
 

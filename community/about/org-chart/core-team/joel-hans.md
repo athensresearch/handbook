@@ -14,6 +14,7 @@ description: >-
 * \*\*\*\*[**Discord**](https://discord.gg/as9h8yHNfD): @joelhans
 * **GitHub**: [@joelhans](https://github.com/joelhans/)
 * **Twitter**: [@joelhans](https://twitter.com/joelhans)
+* **Pronouns**: he/him
 
 ### Ask me about
 
