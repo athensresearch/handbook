@@ -1,2 +1,0 @@
-# School of Athens FAQ
-

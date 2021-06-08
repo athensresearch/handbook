@@ -1,6 +1,0 @@
-# The Athens Team
-
-## Contributors
-
-
-

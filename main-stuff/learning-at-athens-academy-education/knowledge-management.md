@@ -1,4 +1,0 @@
-# Knowledge Management
-
-Knowledge Graphs
-
