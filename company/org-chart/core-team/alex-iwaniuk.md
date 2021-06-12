@@ -1,6 +1,6 @@
 ---
 description: >-
-  Hubert is a Senior Engineer on the Athens Research core team, and works on
+  Alex is a Senior Engineer on the Athens Research core team, and works on
   frontend, self-hosted, and real-time collaboration features.
 ---
 
