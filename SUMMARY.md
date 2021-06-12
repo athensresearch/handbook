@@ -60,7 +60,7 @@
 
 * [People](company/org-chart/README.md)
   * [Core Team](company/org-chart/core-team/README.md)
-    * [Hubert Alex Iwaniuk](company/org-chart/core-team/hubert-alex-iwaniuk.md)
+    * [Alex Iwaniuk](company/org-chart/core-team/alex-iwaniuk.md)
     * [Jeff Tang](company/org-chart/core-team/jeff.md)
     * [Joel Hans](company/org-chart/core-team/joel-hans.md)
     * [Johnny Morabito](company/org-chart/core-team/johnny.md)

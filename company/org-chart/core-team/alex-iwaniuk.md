@@ -4,9 +4,9 @@ description: >-
   frontend, self-hosted, and real-time collaboration features.
 ---
 
-# Hubert Alex Iwaniuk
+# Alex Iwaniuk
 
-* **Name**: Hubert Alex Iwaniuk
+* **Name**: Alex Iwaniuk
 * **Title**: Senior Engineer
 * **Area of focus**: All things software and process around it
 * **Location**: The Netherlands 🇳🇱
