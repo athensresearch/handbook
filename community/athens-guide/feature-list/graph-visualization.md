@@ -2,7 +2,9 @@
 
 <img width="1440" alt="Screen Shot 2021-06-05 at 4 48 29 PM" src="https://user-images.githubusercontent.com/80150109/120890130-7b025100-c61e-11eb-8ead-4e9a8462b8fa.png">
 
-You've started taking notes, you've started linking ideas, what's next? Time to see your knowledge in action! The graph view is a bird’s eye view of your database, it's a way to identify connections and patterns in your graph. As you continue to take notes, you will start noticing clusters forming which, in addition to its functional purpose, is a way to marvel at your growing database. To access the global graph view, click on the icon in the toolbar or use the global command, `alt/option-g`. 
+You've started taking notes, you've started linking ideas, what's next? Time to see your knowledge in action! The graph view is a bird’s eye view of your database, a way to identify connections and patterns in your graph. As you continue to take notes, you will start noticing clusters forming which, in addition to its functional purpose, is a way to marvel at your growing database. 
+
+To access the global graph view, click on the icon in the toolbar or use the global command, `alt/option-g`. 
 
 <img width="258" alt="Screen Shot 2021-06-05 at 11 41 27 AM" src="https://user-images.githubusercontent.com/80150109/120890171-979e8900-c61e-11eb-89b5-6f284299ef0f.png">
 
