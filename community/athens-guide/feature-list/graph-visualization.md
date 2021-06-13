@@ -6,7 +6,7 @@ You've started taking notes, you've started linking ideas, what's next? Time to 
 
 <img width="258" alt="Screen Shot 2021-06-05 at 11 41 27 AM" src="https://user-images.githubusercontent.com/80150109/120890171-979e8900-c61e-11eb-89b5-6f284299ef0f.png">
 
-## View Customization in the Graph View
+## View customization in the graph view
 You can customize the graph's forces and choose to filter out the daily notes and orphan nodes. The forces of the graph can be manipulated by changing the link distance and the attraction force of the nodes in the graph under the forces menu in the right corner of the graph view. Under the nodes menu, you can choose to hide daily notes and/or orphan nodes and also change the number of links that are highlighted upon hovering of the individual nodes. 
 
 ## The Local Graph
