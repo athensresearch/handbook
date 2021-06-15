@@ -42,7 +42,6 @@
     * [Contribute Documentation](community/get-involved/learning-at-athens-academy-education/contributing-documentation.md)
     * [Improve Design](community/get-involved/learning-at-athens-academy-education/contributing-design.md)
     * [Request New Features](community/get-involved/learning-at-athens-academy-education/request-new-features.md)
-    * [Mentor](community/get-involved/learning-at-athens-academy-education/mentor.md)
     * [Learn in Public](community/get-involved/learning-at-athens-academy-education/learn-in-public/README.md)
       * [Notetaking](community/get-involved/learning-at-athens-academy-education/learn-in-public/notetaking.md)
       * [Knowledge Management](community/get-involved/learning-at-athens-academy-education/learn-in-public/knowledge-management.md)
@@ -52,9 +51,7 @@
           * [Learner Commits](community/get-involved/learning-at-athens-academy-education/learn-in-public/clojure/clojurefam/learner-commits.md)
         * [Onboarding for New Clojurians](community/get-involved/learning-at-athens-academy-education/learn-in-public/clojure/onboarding-for-new-clojurians.md)
         * [Block Parser Documentation](community/get-involved/learning-at-athens-academy-education/learn-in-public/clojure/athens-block-parser-documentation.md)
-    * [Conduct Research](community/get-involved/learning-at-athens-academy-education/research.md)
     * [Submit Sample Templates or Databases](community/get-involved/learning-at-athens-academy-education/submit-templates-or-databases.md)
-    * [Translate](community/get-involved/learning-at-athens-academy-education/translate.md)
 
 ## COMPANY
 
@@ -68,6 +65,7 @@
     * [Stuart Hanberg](company/org-chart/core-team/stuart-hanberg.md)
   * [Contributors](company/org-chart/contributors.md)
 * [Operations](company/athens-research-governance-and-operations/README.md)
+  * [How We Work](company/athens-research-governance-and-operations/how-we-work.md)
   * [Communications](company/athens-research-governance-and-operations/meetings/README.md)
     * [Communication Strategy](company/athens-research-governance-and-operations/meetings/online-presence/README.md)
       * [Discord](company/athens-research-governance-and-operations/meetings/online-presence/discord.md)
@@ -82,10 +80,11 @@
     * [Datascript Attribute Table](company/athens-research-governance-and-operations/engineering/datascript-attribute-table.md)
     * [Components Documentation](company/athens-research-governance-and-operations/engineering/athens-components-documentation.md)
     * [Product Management](company/athens-research-governance-and-operations/engineering/product-management.md)
+  * [Finance & Accounting](company/athens-research-governance-and-operations/finance.md)
   * [Governance](company/athens-research-governance-and-operations/governance/README.md)
     * [License](company/athens-research-governance-and-operations/governance/untitled.md)
     * [Policies](company/athens-research-governance-and-operations/governance/policies.md)
-  * [How We Work](company/athens-research-governance-and-operations/how-we-work.md)
+  * [Marketing & Sales](company/athens-research-governance-and-operations/marketing.md)
   * [People](company/athens-research-governance-and-operations/untitled/README.md)
     * [Feedback](company/athens-research-governance-and-operations/untitled/feedback.md)
     * [Bounties](company/athens-research-governance-and-operations/untitled/bounties.md)
@@ -94,8 +93,6 @@
     * [Hiring](company/athens-research-governance-and-operations/untitled/hiring.md)
   * [Team Structure](company/athens-research-governance-and-operations/team-structure.md)
   * [Strategy](company/athens-research-governance-and-operations/strategy.md)
-* [Marketing & Sales](company/marketing.md)
-* [Finance & Accounting](company/finance.md)
 
 ## Help
 
