@@ -156,6 +156,66 @@ You supposed to see an alert on electron app saying "hello!" and your Vim instan
 
 If all goes well, now you can see documentation of symbols \(binding: K\), go to definition \(binding: \[ C-d\) and so fort. See `:help fireplace` for more information.
 
+#### Conjure
+
+[Conjure](https://github.com/Olical/conjure) is an interactive environment for evaluating code within your running program for Neovim.
+[Installing Conjure](https://github.com/Olical/conjure#installation)
+
+Its main dependency is the [cider-nrepl](https://github.com/clojure-emacs/cider-nrepl).
+Create the following file at `~/.shadow-cljs/config.edn` to add the dependency:
+
+```text
+{:dependencies
+ [[cider/cider-nrepl "0.26.0"]]}
+;; this version may be out of date, check whichever is available
+```
+
+See [shadow-cljs docs](https://shadow-cljs.github.io/docs/UsersGuide.html#user-config) for more info.
+
+Now that we're set up, lets start the development environment;
+
+```text
+lein dev # in one terminal, running nrepl server on port 8777
+yarn run electron . # another terminal running the Athens app itself
+```
+
+Open any Clojurescript file in Neovim.
+Conjure will connect automatically to the leiningen nrepl server and you should see a temporary floating buffer in the top right corner of your editor showing a successful connection.
+
+To get that buffer back and to keep it open in a horizontal split:
+
+```text
+:ConjureLogSplit
+```
+
+To connect to the Clojurescript runtime;
+
+```text
+:ConjureShadowSelect renderer
+```
+
+In the log buffer you should see;
+
+```text
+; --------------------------------------------------------------------------------
+; shadow-cljs (select): renderer
+; (out) To quit, type: :cljs/quit
+[:selected :renderer]
+```
+
+To test your development environment you can try to evaluate some Clojurescript and see the results on Athens running in electron;
+
+```text
+:ConjureEval (js/alert "hello!")
+```
+
+You should see an alert in the electron app saying "hello!". All further evaluations will be blocked until you acknowledge the alert message.
+
+Congratulations, you're connected!
+
+To learn more about how to evaluate things with Conjure, please refer to `:help conjure`, `:help conjure-client-clojure-nrepl` and `:ConjureSchool` (an interactive tutorial).
+See also: [Conjures quickstart guide to Clojurescript](https://github.com/Olical/conjure/wiki/Quick-start:-ClojureScript-(shadow-cljs)) and [Clojure](https://github.com/Olical/conjure/wiki/Quick-start:-Clojure)
+
 ## Using re-frame-10x
 
 The right sidebar has [`re-frame-10x`](https://github.com/day8/re-frame-10x/tree/master/src/day8) developer tools. You can toggle it open and close with `ctrl-h`, but you must not be focused on a block \(ctrl-h has a specific action in some operating systems\).
