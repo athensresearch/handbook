@@ -44,14 +44,12 @@ description: The pages of this handbook are listed below in order of appearance.
 
 * [People](https://athensresearch.gitbook.io/handbook/company/org-chart)
 * [Operations](https://athensresearch.gitbook.io/handbook/company/athens-research-governance-and-operations)
- * Research & Development
- * Marketing 
- * Finance
 
 **Help**
   * [Connect with Us](https://athensresearch.gitbook.io/handbook/help/contact-us)
   * [Frequently Asked Questions](https://athensresearch.gitbook.io/handbook/help/frequently-asked-questions-faq)
   * [Glossary](https://athensresearch.gitbook.io/handbook/help/glossary)
+
 **About**
  * [Handbook Info](https://athensresearch.gitbook.io/handbook/about/using-the-handbook)
 
