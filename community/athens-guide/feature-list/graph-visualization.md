@@ -1,12 +1,12 @@
 # Graph Visualization
-
-![Screen Shot 2021-06-05 at 4 48 29 PM](https://user-images.githubusercontent.com/80150109/120890130-7b025100-c61e-11eb-8ead-4e9a8462b8fa.png)
-
 You've started taking notes, you've started linking ideas, what's next? Time to see your knowledge in action! The graph view is a bird’s eye view of your database, a way to identify connections and patterns in your graph. As you continue to take notes, you will start noticing clusters forming which, in addition to its functional purpose, is a way to marvel at your growing database.
+
+![A sample graph view](https://user-images.githubusercontent.com/80150109/120890130-7b025100-c61e-11eb-8ead-4e9a8462b8fa.png)
+
 
 To access the global graph view, click on the icon in the toolbar or use the global command, `alt/option-g`.
 
-![Screen Shot 2021-06-05 at 11 41 27 AM](https://user-images.githubusercontent.com/80150109/120890171-979e8900-c61e-11eb-89b5-6f284299ef0f.png)
+![Click the "bubble" icon in the toolbar](https://user-images.githubusercontent.com/80150109/120890171-979e8900-c61e-11eb-89b5-6f284299ef0f.png)
 
 ## View customization in the graph view
 
@@ -18,13 +18,13 @@ The local graph is one of the most powerful aspects of the graph view in Athens 
 
 To open the local graph, click the three dots next to the title of the page to reveal a dropdown menu. In the dropdown menu, click the **Show Local Graph** button.
 
-![Screen Shot 2021-06-05 at 4 11 57 PM](https://user-images.githubusercontent.com/80150109/120890114-6d4ccb80-c61e-11eb-96ce-4a145423420d.png)
+![Open a local graph](https://user-images.githubusercontent.com/80150109/120890114-6d4ccb80-c61e-11eb-96ce-4a145423420d.png)
 
 ### Customizing the local graph
 
 Similar to the global graph, you can customize the forces of the graph, but there is something that is local specific, the "local depth" option. This option is powerful because it not only allows you to find topics that you have directly linked in the page but also shows you the pages _linked_ to the pages you have directly linked.
 
-![Screen Shot 2021-06-05 at 4 43 19 PM](https://user-images.githubusercontent.com/80150109/120890204-bbfa6580-c61e-11eb-89f6-dc9977903ff3.png)
+![Example Use Case](https://user-images.githubusercontent.com/80150109/120890204-bbfa6580-c61e-11eb-89f6-dc9977903ff3.png)
 
 In this image, you can also see notes that could be relevant to the food chain that you may not have explicitly thought about or linked to in the food chain page.
 
