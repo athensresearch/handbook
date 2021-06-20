@@ -27,7 +27,7 @@ If you're new to Athens, read our [basics guide](../basics.md). In just a few mi
 
 The rest of our guide book contains information about using Athens, such as [key features](../feature-list/) and a [PDF version](https://github.com/ddauber/athens-cheat-sheet/blob/main/athens_cheatsheet.pdf) of an Athens cheatsheet.
 
-### Get Help
+### Get help
 
 Have a question about how Athens works? Our community is active on [Discord](https://discord.gg/as9h8yHNfD) and [GitHub](https://github.com/athensresearch/athens/discussions).
 

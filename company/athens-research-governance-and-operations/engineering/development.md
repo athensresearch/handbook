@@ -74,7 +74,7 @@ To build and deploy Athens and Devcards from your local development environment:
 
 1. Build your JavaScript bundle\(s\) with either `lein dev`, `lein devcards`, or `lein compile`.
 2. Run `lein gh-pages`.
-3. Open http:///github.io/athens/ and http:///github.io/athens/cards.html. Sometimes this takes a minute to be updated.
+3. Open [http:///github.io/athens/](http:///github.io/athens/) and [http:///github.io/athens/cards.html](http:///github.io/athens/cards.html). Sometimes this takes a minute to be updated.
 
 Notes:
 
@@ -91,7 +91,7 @@ The REPL is one of the core features of Clojure. REPL-driven programming can mak
 
 * Make sure you can run Athens locally before proceeding with this section.
 * Refer to shadow-cljs [editor integration docs](https://shadow-cljs.github.io/docs/UsersGuide.html#_editor_integration) for more details.
-* nREPL port is 8777, as defined in [shadow-cljs.edn](./shadow-cljs.edn).
+* nREPL port is 8777, as defined in [shadow-cljs.edn](https://github.com/athensresearch/handbook/tree/c8b66b7fb7192a8e88c3d26cb52fd8eda63b43c8/company/athens-research-governance-and-operations/engineering/shadow-cljs.edn).
 
 ### Cursive
 
@@ -115,7 +115,7 @@ OS - Windows 10, MacOS Catalina v10.15.6
 4. Select the `:renderer` build to connect to.
 5. In another terminal tab, run `npx electron .`
 
-   ![load the namespace](doc/vscode-calva-repl-config.PNG)
+   ![load the namespace](https://github.com/athensresearch/handbook/tree/c8b66b7fb7192a8e88c3d26cb52fd8eda63b43c8/company/athens-research-governance-and-operations/engineering/doc/vscode-calva-repl-config.PNG)
 
 ### Vim Plugins
 
@@ -158,11 +158,9 @@ If all goes well, now you can see documentation of symbols \(binding: K\), go to
 
 #### Conjure
 
-[Conjure](https://github.com/Olical/conjure) is an interactive environment for evaluating code within your running program for Neovim.
-[Installing Conjure](https://github.com/Olical/conjure#installation)
+[Conjure](https://github.com/Olical/conjure) is an interactive environment for evaluating code within your running program for Neovim. [Installing Conjure](https://github.com/Olical/conjure#installation)
 
-Its main dependency is the [cider-nrepl](https://github.com/clojure-emacs/cider-nrepl).
-Create the following file at `~/.shadow-cljs/config.edn` to add the dependency:
+Its main dependency is the [cider-nrepl](https://github.com/clojure-emacs/cider-nrepl). Create the following file at `~/.shadow-cljs/config.edn` to add the dependency:
 
 ```text
 {:dependencies
@@ -179,8 +177,7 @@ lein dev # in one terminal, running nrepl server on port 8777
 yarn run electron . # another terminal running the Athens app itself
 ```
 
-Open any Clojurescript file in Neovim.
-Conjure will connect automatically to the leiningen nrepl server and you should see a temporary floating buffer in the top right corner of your editor showing a successful connection.
+Open any Clojurescript file in Neovim. Conjure will connect automatically to the leiningen nrepl server and you should see a temporary floating buffer in the top right corner of your editor showing a successful connection.
 
 To get that buffer back and to keep it open in a horizontal split:
 
@@ -213,8 +210,7 @@ You should see an alert in the electron app saying "hello!". All further evaluat
 
 Congratulations, you're connected!
 
-To learn more about how to evaluate things with Conjure, please refer to `:help conjure`, `:help conjure-client-clojure-nrepl` and `:ConjureSchool` (an interactive tutorial).
-See also: [Conjures quickstart guide to Clojurescript](https://github.com/Olical/conjure/wiki/Quick-start:-ClojureScript-(shadow-cljs)) and [Clojure](https://github.com/Olical/conjure/wiki/Quick-start:-Clojure)
+To learn more about how to evaluate things with Conjure, please refer to `:help conjure`, `:help conjure-client-clojure-nrepl` and `:ConjureSchool` \(an interactive tutorial\). See also: \[Conjures quickstart guide to Clojurescript\]\([https://github.com/Olical/conjure/wiki/Quick-start:-ClojureScript-\(shadow-cljs](https://github.com/Olical/conjure/wiki/Quick-start:-ClojureScript-%28shadow-cljs)\)\) and [Clojure](https://github.com/Olical/conjure/wiki/Quick-start:-Clojure)
 
 ## Using re-frame-10x
 
@@ -226,7 +222,7 @@ By default, 10x is closed everytime Athens starts. Sometimes you want 10x to be 
 
 ## Running CI Scripts Locally
 
-After each submitted PR to Athens, GitHub Actions runs the continuous integration workflow declared in `.github/workflows/build.yml`. This workflow runs scripts from [`script/`](script) to test, lint, and build Athens. You can see these workflows in practice in the [Actions tab](https://github.com/athensresearch/athens/actions/).
+After each submitted PR to Athens, GitHub Actions runs the continuous integration workflow declared in `.github/workflows/build.yml`. This workflow runs scripts from [`script/`](https://github.com/athensresearch/handbook/tree/c8b66b7fb7192a8e88c3d26cb52fd8eda63b43c8/company/athens-research-governance-and-operations/engineering/script/README.md) to test, lint, and build Athens. You can see these workflows in practice in the [Actions tab](https://github.com/athensresearch/athens/actions/).
 
 However, it's a lot faster if you run these tests locally, so you don't have to submit a PR each time to make sure the workflow succeeds. You may need to install additional dependencies, though.
 
@@ -255,7 +251,7 @@ Ran 4 tests containing 16 assertions.
 
 ### Linting
 
-We are linting Clojure code using [clj-kondo](https://github.com/borkdude/clj-kondo). Our clj-kondo configuration is in [`.clj-kondo/config.edn`](.clj-kondo/config.edn).
+We are linting Clojure code using [clj-kondo](https://github.com/borkdude/clj-kondo). Our clj-kondo configuration is in [`.clj-kondo/config.edn`](https://github.com/athensresearch/handbook/tree/c8b66b7fb7192a8e88c3d26cb52fd8eda63b43c8/company/athens-research-governance-and-operations/engineering/.clj-kondo/config.edn).
 
 For this linting to work, you will need to install `clj-kondo`. Instructions are in [`clj-kondo`’s installation guide](https://github.com/borkdude/clj-kondo/blob/master/doc/install.md).
 

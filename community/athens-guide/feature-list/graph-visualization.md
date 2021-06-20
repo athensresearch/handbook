@@ -1,12 +1,12 @@
 # Graph Visualization
+
 You've started taking notes, you've started linking ideas, what's next? Time to see your knowledge in action! The graph view is a bird’s eye view of your database, a way to identify connections and patterns in your graph. As you continue to take notes, you will start noticing clusters forming which, in addition to its functional purpose, is a way to marvel at your growing database.
 
 ![A sample graph view](https://user-images.githubusercontent.com/80150109/120890130-7b025100-c61e-11eb-8ead-4e9a8462b8fa.png)
 
-
 To access the global graph view, click on the icon in the toolbar or use the global command, `alt/option-g`.
 
-![Click the "bubble" icon in the toolbar](https://user-images.githubusercontent.com/80150109/120890171-979e8900-c61e-11eb-89b5-6f284299ef0f.png)
+![Click the &quot;bubble&quot; icon in the toolbar](https://user-images.githubusercontent.com/80150109/120890171-979e8900-c61e-11eb-89b5-6f284299ef0f.png)
 
 ## View customization in the graph view
 

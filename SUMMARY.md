@@ -1,13 +1,14 @@
 # Table of contents
 
-* [Table of Contents](README.md)
+* [Welcome](README.md)
+* [About us](about-us/README.md)
+  * [Why Athens](about-us/why-athens.md)
+  * [What's new in Athens?](about-us/whats-new-in-athens.md)
+  * [Roadmap](about-us/roadmap.md)
+  * [Vision](about-us/vision.md)
 
 ## COMMUNITY
 
-* [About Athens Research](community/about/README.md)
-  * [Why Athens](community/about/why-athens.md)
-  * [Roadmap](community/about/roadmap.md)
-  * [Vision](community/about/vision.md)
 * [Athens User Guide](community/athens-guide/README.md)
   * [Getting Started](community/athens-guide/getting-started/README.md)
     * [Athens Demo](community/athens-guide/getting-started/athens-demo.md)
@@ -96,16 +97,12 @@
 
 ## Help
 
-* [Connect with Us](help/contact-us.md)
-* [Frequently Asked Questions](help/frequently-asked-questions-faq/README.md)
+* [Connect with us](help/contact-us.md)
+* [FAQ](help/frequently-asked-questions-faq/README.md)
   * [General Questions](help/frequently-asked-questions-faq/general-questions/README.md)
     * [Enterprise](help/frequently-asked-questions-faq/general-questions/enterprise.md)
-  * [Community Questions](help/frequently-asked-questions-faq/community-questions.md)
   * [Product Questions](help/frequently-asked-questions-faq/product-questions.md)
+  * [Community Questions](help/frequently-asked-questions-faq/community-questions.md)
   * [Athens Academy Questions](help/frequently-asked-questions-faq/school-of-athens-faq.md)
 * [Glossary](help/glossary.md)
-
-## ABOUT
-
-* [Handbook Info](about/using-the-handbook.md)
 

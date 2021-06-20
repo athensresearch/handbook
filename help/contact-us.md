@@ -1,25 +1,19 @@
-# Connect with Us
+---
+description: >-
+  Looking to join others in learning, researching, or building in public? The
+  gates of Athens are open to your contributions, thoughts, insights, and
+  leadership.
+---
 
-Join Athens Research on Discord. This is where we research, build, and \#learn-in-public. Ask and answer questions, join weekly community calls, connect with other Athenians, and stay up to date on the latest events.
+# Connect with us
 
-Know a way we can make Athens better? Visit our \[Github\], our single source of truth. Participate in discussions, create issues, and submit pull requests. 
+The fastest way to connect is to join our [Discord server](https://discord.gg/as9h8yHNfD). That's where we learn in public. Ask and answer questions, join weekly community calls, connect with other Athenians, and stay up to date on the latest events.
 
-Check out the \[Athens website\] for ?
+Know a way we can make Athens better? Visit our [GitHub](https://github.com/athensresearch/athens). Every part of Athens Research is open source and public knowledge. Participate in [discussions](https://github.com/athensresearch/athens/discussions), create [issues for bugs](https://github.com/athensresearch/athens/issues/new?assignees=&labels=type%3A+%F0%9F%90%9E+bug&template=bug_report.md&title=), and submit [pull requests](https://github.com/athensresearch/athens/pulls) if you're contributing code, design, or documentation.
 
-Discover the history of Athens over on our \[Ghost.io Blog\]. 
+Read more about the history of Athens on the [blog](https://athens-research.ghost.io/). If you think we're on the right track, and believe in our collective vision, sponsor us on [Open Collective](https://opencollective.com/athens).
 
-Sponsor us on \[Open Collective\]. We will soon be migrating to \[Stripe\]. 
-
-
-
-* [Discord](https://discord.gg/as9h8yHNfD)
-  * [Community Calls](https://calendar.google.com/calendar/u/7?cid=NjVnZjNvY2JuczN0cmhqODZhbm8xbzA2NDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-* [Github](https://github.com/athensresearch/)
-  * [Discussions](https://github.com/athensresearch/athens/discussions)
-  * [Project Board](https://github.com/athensresearch/athens/projects)
-* [Website](https://athens-research.ghost.io/)
-* [Athens Community Cooperative Notes Database](https://roamresearch.com/#/app/athensresearch/)
-* researchathens@gmail.com
+If you're the emailing type, read us at: [researchathens@gmail.com](mailto:researchathens@gmail.com).
 
 
 
