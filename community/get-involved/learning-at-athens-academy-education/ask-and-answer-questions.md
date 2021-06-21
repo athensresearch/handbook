@@ -1,2 +1,2 @@
-# Ask & Answer Questions
+# Ask & answer questions
 

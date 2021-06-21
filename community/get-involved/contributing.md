@@ -1,19 +1,11 @@
 ---
-description: to be updated
+description: >-
+  Want to dive into the Athens Research community? This overview will give you
+  more than a dozen ways to make place better—most of which don't even involve
+  writing code.
 ---
 
 # Overview
-
-* Getting Started
-* Going Deeper
-* Working with the Athens Repo
-* Github & Github Style Guide
-
-  * Commits
-  * Issues
-  * Pull Requests
-
-Revise:
 
 The final Athens vision is for everyone, one day, to learn how to learn anything.
 
@@ -21,27 +13,26 @@ To do that, it is mission-critical to create a space and culture where we can [w
 
 We're always looking to bring new people and new ideas into Athens. There's plenty of ways to get involved, from development, design, documentation, and more. Don't hesitate to jump in!
 
-## Getting Started
+### Get started with the Athens Research community
 
+* Review the [Code of Conduct](code-of-conduct.md).
+* Complete the Contributors License Agreement.
+* Check out ways to [get involved](learning-at-athens-academy-education/).
+* Join our mailing list by [visiting our blog](https://athens-research.ghost.io/) and clicking **Subscribe**.
+* Participate in conversations on our [Discord server](https://discord.gg/as9h8yHNfD).
+* [Follow updates](../../about-us/whats-new-in-athens.md) on new Athens versions.
 
+### Go deeper
 
-* Review the Code of Conduct
-* Complete the Contributors License Agreement
-* Check out ways to Get Involved
-* Join our mailing list
-* Participate in conversations on our Discord server
-* Follow updates on new Athens versions
+* [Share your workflows](learning-at-athens-academy-education/share-your-experiences.md) to help others become Athens gurus.
+* [Connect with Athens](learning-at-athens-academy-education/connect-on-social-media.md) on social media.
+* [Report bugs](learning-at-athens-academy-education/file-and-verify-issues.md) when something is broken.
+* [Request new features](learning-at-athens-academy-education/request-new-features.md) to add functionality.
+* [Improve this handbook](learning-at-athens-academy-education/contributing-documentation.md) to make Athens more transparent and approachable.
+* [Improve the design](learning-at-athens-academy-education/contributing-design.md) of the Athens app or website.
+* Submit a [sample template or database](learning-at-athens-academy-education/submit-templates-or-databases.md) so that others can learn from the workflows you've built.
 
-## Going Deeper
-
-* Use Athens and share your experiences
-* Participate in 
-* Report when something is broken
-* Request new features to add functionality
-* Share your expertise
-* Improve Documentation
-
-## Working with the Athens Repo
+### Working with the Athens codebase
 
 * Set up your deployment environment
 * Check out editors and other tools that will support your contributions
@@ -69,18 +60,13 @@ We're always looking to bring new people and new ideas into Athens. There's plen
 * Duplicate the [Athens Design System](https://www.figma.com/file/XITWUHZHNJsIbcCsBkOHpZ/Athens-Design-System?node-id=0%3A1) on Figma to get the building blocks for creating UIs and workflows.
 * See previous concepts in the [Product Design Sandbox](https://www.figma.com/file/iCXP6z7H5IAQ6xyFr5AbZ7/Product-Design-Sandbox?node-id=183%3A37). This Figma is no longer actively used, but seeing previous work can help!
 
-### Documentation
-
-* Join our [Discord](https://discord.gg/GCJaV3V) and see what's happening in the `#documentation` channel.
-* Read the [contributing documentation](learning-at-athens-academy-education/contributing-documentation.md) doc.
-
 ### Others
 
 * Have other superpowers?! Join our [Discord](https://discord.gg/GCJaV3V), introduce yourself in `#🐣-introductions`, and ask around in `#⛲️-general`!
 
-## Git and GitHub Style Guide
+### Git and GitHub Style Guide
 
-### Commits
+#### Commits
 
 Follow guidelines from [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/). Specifically, begin each commit with one of the following types:
 
@@ -100,13 +86,11 @@ test:
 
 See some real examples in our [commit history](https://github.com/athensresearch/athens/commits/master).
 
-### Issues
+#### Issues
 
 Please create issues using [our templates](https://github.com/athensresearch/athens/issues/new/choose). However, you will almost certainly get feedback and help faster in our [Discord](https://discord.gg/GCJaV3V)!
 
-
-
-### Pull Requests
+#### Pull Requests
 
 If your PR is related to other issue\(s\), reference it by issue number. You can close issues smoothly with [GitHub keywords](https://help.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords):
 

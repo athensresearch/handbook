@@ -1,2 +1,2 @@
-# Submit Sample Templates or Databases
+# Submit sample templates or databases
 

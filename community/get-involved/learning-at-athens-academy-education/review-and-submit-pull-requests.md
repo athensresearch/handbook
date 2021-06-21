@@ -1,2 +1,2 @@
-# Review & Submit Pull Requests
+# Review & submit pull requests
 

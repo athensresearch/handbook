@@ -4,37 +4,9 @@ description: to be updated
 
 # Code of Conduct
 
-* Summary
-* Contributor Covenant Code of Conduct
-  * Our Pledge
-  * Our Standards
-  * Enforcement Responsibilities
-  * Scope
-  * Enforcement
-  * Enforcement Guidelines
-    * Correction
-    * Warning
-    * Temporary Ban
-    * Permanent Ban
-  * Attribution
-* Update Log
-* Values
-  * Collaboration
-  * Learning
-* Athens Discord
-  * Inviting
-  * Kicking and Banning
-  * Auto-Moderation
-  * Pruning
-  * Contributor Channels
-* Discord Official
-  * Discord Guidelines
-  * Discord Terms of Service
-  * Discord Privacy Policy
-
 If you disagree with Athens's values, Athens's Discord guidelines, or the official Discord policies, you have two options: [Voice or Exit](https://www.youtube.com/watch?v=cOubCHLXT6A).
 
-## Summary
+### Summary
 
 We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this community, participants agree to abide by the Athens Research Contributor Covenant Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. Any form of behavior to exclude, intimidate, or cause discomfort is a violation of the Code of Conduct. In order to foster a positive and professional learning environment we encourage the following kinds of behaviors:
 
@@ -48,15 +20,15 @@ If you believe someone is violating the Code of Conduct, we ask that you report 
 
 If you disagree with Athens's values, Athens's Discord guidelines, or the official Discord policies, you have two options: [Voice or Exit](https://www.youtube.com/watch?v=cOubCHLXT6A).
 
-## Contributor Covenant Code of Conduct
+### Contributor Covenant Code of Conduct
 
-### Our Pledge
+#### Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
-### Our Standards
+#### Our Standards
 
 Examples of behavior that contributes to a positive environment for our community include:
 
@@ -74,33 +46,33 @@ Examples of unacceptable behavior include:
 * Publishing others' private information, such as a physical or email address, without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
-### Enforcement Responsibilities
+#### Enforcement Responsibilities
 
 Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
 
 Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
 
-### Scope
+#### Scope
 
 This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
 
-### Enforcement
+#### Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [researchathens@gmail.com](mailto:researchathens@gmail.com). All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
-### Enforcement Guidelines
+#### Enforcement Guidelines
 
 Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
 
-#### 1. Correction
+**1. Correction**
 
 **Community Impact**: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.
 
 **Consequence**: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.
 
-#### 2. Warning
+**2. Warning**
 
 **Community Impact**: A violation through a single incident or series of actions.
 
@@ -142,7 +114,7 @@ For answers to common questions about this code of conduct, see the FAQ at [http
 
 If you disagree with Athens's values, Athens's Discord guidelines, or the official Discord policies, you have two options: [Voice or Exit](https://www.youtube.com/watch?v=cOubCHLXT6A).
 
-## Values
+### Values
 
 > Don’t explain your philosophy. Embody it.
 
@@ -152,21 +124,21 @@ Athens is not just a product. Athens is a community for collaboration and learni
 
 When participating in the Athens community, you are agreeing to embody Athens's values. But values and communities become real through actions, not words. As Athens matures, we will add epics and hero's journeys that exemplify Athens's values to this page.
 
-### Collaboration
+#### Collaboration
 
 > Associate with people who are likely to improve you.
 
 — Seneca
 
-### Learning
+#### Learning
 
 > The object of education is to teach us to love what is beautiful.
 
 — Plato
 
-## Athens Discord
+### Athens Discord
 
-### Inviting
+#### Inviting
 
 Athenians are free to invite others to the Athens Discord, but the Core Team and Guardians reserve the right to revoke this permission.
 
@@ -174,7 +146,7 @@ This would be necessary in case there were growing pains from premature scaling 
 
 This is also why invites expire after 24 hours by default.
 
-### Kicking and Banning
+#### Kicking and Banning
 
 If there are spambots or members severely transgressing the Athens values and guidelines, it is the responsibility of Guardians and Core Team members to kick or ban these bad actors.
 
@@ -208,9 +180,9 @@ Collaboration implies participation. Members of the Discord who do not message a
 
 In the "Athens \(Product\)" section, we have set up specific channels for those who have made non-trivial contributions to engineering and/or design. This way, communications between contributors can flow freely, while still allowing aspiring contributors to gain invaluable context about how and why certain decisions are made. More context about this change in our Discord can be found [here](https://www.notion.so/athensresearch/Open-Source-Conversations-Discord-a8c959de3b194cefadd48b497fc12079).
 
-## Discord Official
+### Discord Official
 
-### Discord Guidelines
+#### Discord Guidelines
 
 You agree to the official Discord [Guidelines](https://discord.com/guidelines) while using Discord. Evidence of the following may result in the termination of your account from the Discord platform:
 
@@ -248,38 +220,4 @@ Discord collects the following information:
 * IP address, device ID, and your activities within the Services
 * information through other Services such as Twitter and Facebook, if connected
 * information on cookies
-
-
-
-* Either role grants you write-access to all three channels.
-  * **\#engineers** – engineers have contributed some amount of engineering to the Athens GitHub repository.
-  * **\#designers** – designers have contributed designs to Athens. So far, all contributions have been on Figma.
-  * **\#product** – product is about direction: "We have two comparable solutions, what tradeoffs do we want to make?"
-* A member of the Core Team will update your role.
-  * A line of documentation, a line of code, or a line in Figma doesn't count.
-  * But the bar is not absurdly high. One solid PR or mockup could be enough, and has been for some.
-  * Indirect contributions are factored into this decision, e.g. productive discussions on GitHub, Discord, Twitter, etc.
-  * This should scale for now — everyone sees everyone's contributions in open-source.
-
-## Context
-
-At the start of the Discord, we had **\#🖌-design** and **\#🤖 -engineering** channels.
-
-However, it was incredibly difficult to make progress on things like the design system. It quickly became clear that we needed to improve the signal-to-noise ratio between designers and non-designers, contributors and non-contributors.
-
-So we made private channels, and now Athens has a top-notch design system to build an amazing product and tool!
-
-However, it has become evident that the more private channels we have, the harder it would be for new contributors to get started. They'd be missing out on perhaps the most important context to orient themselves: the conversations between contributors.
-
-Thus, we are "open-sourcing" these conversations now \(**\#engineers \#designers \#product**\). Like our GitHub, anyone can read. But to write, you'll need to submit a Pull Request \(or designs, research, etc.\).
-
-It's possible that these channels should've always been read-only. It was, in fact, brought up and considered. It's also possible that it was the right decision, at the time.
-
-Either way, we do believe making these work channels public is the right move now and for the foreseeable future.
-
-Democracy is a balancing act between empowering everyone and empowering those that have contributed with their power. At Athens, we want to empower everyone by making the "Commons" as accessible as possible. We also want to empower those that have contributed by giving them more \[voice\]\([https://github.com/athensresearch/athens/blob/master/CODE\_OF\_CONDUCT.md\#user-content-table-of-contents:~:text=you have two options%3A Voice or Exit.\)](https://github.com/athensresearch/athens/blob/master/CODE_OF_CONDUCT.md#user-content-table-of-contents:~:text=you%20have%20two%20options%3A%20Voice%20or%20Exit.%29), particularly with one another.
-
-## Update Log
-
-2020-05-26 Suggested Code of Conduct submitted 
 

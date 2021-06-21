@@ -1,2 +1,2 @@
-# Get Involved
+# Get involved
 

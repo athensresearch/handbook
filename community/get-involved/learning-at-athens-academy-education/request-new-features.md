@@ -1,2 +1,2 @@
-# Request New Features
+# Request new features
 
