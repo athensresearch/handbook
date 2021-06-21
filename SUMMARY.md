@@ -50,9 +50,9 @@
         * [Block Parser Documentation](community/get-involved/learning-at-athens-academy-education/learn-in-public/clojure/athens-block-parser-documentation.md)
     * [File & verify issues](community/get-involved/learning-at-athens-academy-education/file-and-verify-issues.md)
     * [Review & submit pull requests](community/get-involved/learning-at-athens-academy-education/review-and-submit-pull-requests.md)
-    * [Contribute Documentation](community/get-involved/learning-at-athens-academy-education/contributing-documentation.md)
+    * [Improve the handbook & documentation](community/get-involved/learning-at-athens-academy-education/contributing-documentation.md)
     * [Improve Design](community/get-involved/learning-at-athens-academy-education/contributing-design.md)
-    * [Submit sample templates or databases](community/get-involved/learning-at-athens-academy-education/submit-templates-or-databases.md)
+    * [Share sample templates or databases](community/get-involved/learning-at-athens-academy-education/submit-templates-or-databases.md)
 
 ## COMPANY
 

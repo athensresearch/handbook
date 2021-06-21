@@ -24,8 +24,9 @@ We're always looking to bring new people and new ideas into Athens. There's plen
 
 ### Go deeper
 
-* [Share your workflows](learning-at-athens-academy-education/share-your-experiences.md) to help others become Athens gurus.
 * [Connect with Athens](learning-at-athens-academy-education/connect-on-social-media.md) on social media.
+* Ask and answer questions 
+* [Share your workflows](learning-at-athens-academy-education/share-your-experiences.md) to help others become Athens gurus.
 * [Report bugs](learning-at-athens-academy-education/file-and-verify-issues.md) when something is broken.
 * [Request new features](learning-at-athens-academy-education/request-new-features.md) to add functionality.
 * [Improve this handbook](learning-at-athens-academy-education/contributing-documentation.md) to make Athens more transparent and approachable.

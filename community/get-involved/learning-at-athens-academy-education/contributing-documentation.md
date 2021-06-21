@@ -5,43 +5,36 @@ description: >-
   fixes and improvements across the board.
 ---
 
-# Contribute Documentation
+# Improve the handbook & documentation
 
-Athens Research uses the [`athensresearch/handbook` repository](https://github.com/athensresearch/handbook) on GitHub as the source of truth for all its documentation and information on using Athens, contributing to development, governance, and more. The files in this repository are published to the [Athens Handbook](https://athensresearch.gitbook.io/handbook/) for reading.
+Athens Research uses this handbook as the source of truth for all its documentation and information on using Athens, contributing to development, governance, and more.
 
-We publish the Markdown files in this repository using GitBook via a two-way synchronization process. When a member of the Athens community makes an edit on GitBook, it's synchronized back to this repository.
+The files in the  [`athensresearch/handbook` repository](https://github.com/athensresearch/handbook) are published to the [Athens Handbook](https://athensresearch.gitbook.io/handbook/) with GitBook.
+
+### Contributing to the handbook
 
 All contributors, and contributions of any type, are welcome. A community of many voices and perspectives produces the most inclusive and accurate documentation.
 
-If you're not sure where to start, check out the [Documentation project](https://github.com/athensresearch/athens/projects/17) on GitHub, which is where the Athens community discusses and organizes, coordinates, and claims tasks related to documentation.
+Learn about current priorities and TODOs by checking out the [Handbook project](https://github.com/athensresearch/handbook/projects/3) on GitHub, which is where the Athens community discusses and organizes, coordinates, and claims tasks related to the handbook.
 
-There are two ways to suggest or make changes to the handbook:
+If you want to make the handbook better, but don't want to work on the handbook itself, [filing issues](file-and-verify-issues.md) for missing our outdated information is incredibly helpful to the handbook team.
+
+#### Handbook team
+
+We currently have a small team of contributors who 
+
+### Language and tone
+
+Our handbook should assume zero prior knowledge. Be descriptive without the unnecessary use of jargon. If jargon is unavoidable, link to our glossary or external educational pages that describe the jargon/concepts.
+
+### Editing the handbook
+
+There are two ways to make changes to the handbook:
 
 1. [**GitHub**](contributing-documentation.md#contribute-with-github): Edit Markdown files in a new branch, then submit a pull request for review from members of the Athens core team or community.
 2. [**GitBook**](contributing-documentation.md#contribute-with-gitbook): If you're less comfortable with using GitHub or editing Markdown, use rich-text, drag-and-drop editing tools to edit the handbook directly.
 
-### Language and tone
-
-Our handbook should assume zero prior knowledge. Be descriptive without the unnecessary use of jargon. If jargon is unavoidable, link to definitions or educational pages that describe the jargon/concepts.
-
-### Handbook structure
-
-* **Use Athens**: Product documentation for the [Athens](https://github.com/athensresearch/athens) desktop or [web](https://github.com/athensresearch/athens-backend) \(self-hosted\) application.
-  * Stored in `/for-users/`. 
-* **Build Athens**: How-to guides on how to contributing to 
-  * Stored in `/contributing-1/`.
-* **Athens Team Operations**: Governance information for Athens Research as a company and community.
-  * Stored in `/company/`.
-* **Develop Athens**: Developer documentation for Athens.
-  * Stored in `/development/`.
-* **School of Athens**: Information about ClojureFam, our cohort-based learning program for teaching developers about Clojure, the language Athens is written in, and other educational efforts.
-  * Stored in `/school-of-athens/`.
-* **Frequently Asked Questions**: Answers to common questions that users might have about Athens Research, Athens, ClojureFam, or any other part of the Athens ecosystem.
-  * Stored in `/frequently-asked-questions-faq/`.
-* **Glossary**: A dictionary of Athens-specific terminology and industry jargon.
-  * Stored at `/glossary.md`.
-
-### Contribute with GitHub
+#### GitHub
 
 Contributing to documentation with GitHub requires a few things:
 
@@ -68,16 +61,21 @@ Click **Create pull request** to create the PR. A member of the Athens team will
 
 #### Images
 
-There are two ways to attach images to your documentation contributions.
+The best way to attach images to your handbook contributions is to upload image assets to GitHub.
 
-1. Add the image file into the `.gitbook/assets` folder in this handbook repository alongside your changes to text. Reference the image starting from the root of the repository `/`, followed by `.gitbook/assets/`: `![alt text](/.gitbook/assets/import.png)`.
-2. Upload the image directly to GitHub. Drag-and-drop your image into the textarea at the bottom of any issue or PR.
+Drag-and-drop your image into the textarea at the bottom of any issue or PR.
 
-   ![Uploading a file to GitHub](https://user-images.githubusercontent.com/1153921/118381822-e6b74800-b5a3-11eb-9c0f-42850d33093f.gif)
+1. ![Uploading a file to GitHub](https://user-images.githubusercontent.com/1153921/118381822-e6b74800-b5a3-11eb-9c0f-42850d33093f.gif)
 
-   GitHub returns an `<img>` element with the file uploaded to their content delivery network \(CDN\): `<img width="1440" alt="Creating a new PR with a recent push" src="https://user-images.githubusercontent.com/1153921/118381383-36dfdb80-b59f-11eb-93b5-f6efd6aa26d1.png">`. Add this string to your document to embed the image.
+GitHub returns an `<img>` element with the file uploaded to their content delivery network \(CDN\):
 
-### Contribute with GitBook
+```text
+<img width="1440" alt="Creating a new PR with a recent push" src="https://user-images.githubusercontent.com/1153921/118381383-36dfdb80-b59f-11eb-93b5-f6efd6aa26d1.png">
+```
+
+Add this string to your document to embed the image.
+
+#### GitBook
 
 Contributing to documentation with GitBook requires an invitation to the app.
 
@@ -92,7 +90,25 @@ To make changes directly:
 * Open a file and make your changes using the built-in editor.
 * Hover over the popup in the bottom-left corner. Add a description of your changes in the text area and click **Save**.
 * At this point, other writers and administrators can see your edits. Send a message on the `#documentation` channel on [Discord](https://discord.com/invite/as9h8yHNfD) to encourage others to respond and provide feedback.
-* Once you feel comfortable merging, click the **Merge** button. GitBook immediately publishes your changes and commits
+* Once you feel comfortable merging, click the **Merge** button. GitBook immediately publishes your changes and commits them back into the handbook repository.
 
-  them back into the handbook repository.
+### Handbook structure
+
+* **Welcome**
+  * Stored in the main `README.md`.
+* **About us**
+  * Information about Athens Research, what's new, and our vision.
+  * Stored in `/about-us/`.
+* **Athens User Guide**
+  * Product documentation for the [Athens](https://github.com/athensresearch/athens) desktop or [web](https://github.com/athensresearch/athens-backend) \(self-hosted\) application.
+  * Stored in `/community/athens-guide/`. 
+* **Athens Community Guide**: 
+  * Guides on the many ways of contributing to the Athens community and ecosystem.
+  * Stored in `/community/get-involved/`.
+* **Company**
+  * Information for Athens Research as a company, including its core team, contributors, and operations.
+  * Stored in `/company/`.
+* **Help**
+  * Contact information, answers to common questions, and a glossary of Athens-specific terminology and industry jargon.
+  * Stored in `/help/`.
 
