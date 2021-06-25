@@ -92,7 +92,7 @@ To create a new database in a different location, click the **New** tab, enter a
 If you need to edit your knowledge graph from multiple machines or on different networks, you have two choices:
 
 1. Use a file synchronization tool like [Dropbox](https://www.dropbox.com) or [OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage). While Athens warns you about updated blocks coming from these tools, you should take care not to edit the same database from multiple machines at the same time.
-2. Run the [Athens backend](https://github.com/athensresearch/athens-backend) on a system like a [virtual private server](https://en.wikipedia.org/wiki/Virtual_private_server) (VPS) or [Heroku deployment](https://github.com/athensresearch/athens-backend#heroku) that you can access from every machine or network. This backend is in the process of being refactored into the [main Athens git repository](https://github.com/athensresearch/athens) (see [this issue](https://github.com/athensresearch/athens/pull/1170/) for details), but until that effort is completed, the existing archived backend can be used.
+2. The [Athens backend](https://github.com/athensresearch/athens-backend) is in the process of being refactored into the [main Athens git repository](https://github.com/athensresearch/athens) (see [this issue](https://github.com/athensresearch/athens/pull/1170/) for details), but until that effort is completed, the existing archived backend can be used.
 
 ### Updating Athens
 
