@@ -1,6 +1,6 @@
 # Installation Guide
 
-* [Installing Athens](#installing-athens)
+* [Install Athens](#install-athens)
   * [Windows](#windows)
   * [OS X](#os-x)
   * [Linux](#linux)
@@ -11,7 +11,7 @@
   * [Syncing your data between machines](#syncing-your-data-between-machines)
   * [Updating Athens](#updating-athens)
 
-## Installing Athens
+## Install Athens
 
 Open the [Releases page](https://github.com/athensresearch/athens/releases).
 
@@ -67,7 +67,7 @@ The Linux release is a standalone [AppImage](https://appimage.org/) executable.
 
 ### Finding where Athens stores your data
 
-By default, after you install it, Athens opens an initial knowledge graph that's stored in a local file called `index.transit` with other related files in the same directory, which together constitute a [datascript](https://github.com/tonsky/datascript) database.
+By default, Athens opens an initial knowledge graph that's stored in a local file called `index.transit`, which is a [datascript](https://github.com/tonsky/datascript) database at rest. The `index.transit` file and every other file in the folder, minus the backup (`.bkp`) files, make up the Athens database.
 
 To find the location of this file for your operating system, click the **Choose Database** icon in the top-right corner of the Athens window.
 
