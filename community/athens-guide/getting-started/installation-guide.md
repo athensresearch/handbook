@@ -1,16 +1,5 @@
 # Installation Guide
 
-* [Install Athens](#install-athens)
-  * [Windows](#windows)
-  * [OS X](#os-x)
-  * [Linux](#linux)
-* [Post-installation](#post-installation)
-  * [Finding where your data is stored](#finding-where-your-data-is-stored)
-  * [Importing an existing database](#importing-an-existing-database)
-  * [Creating a new database](#creating-a-new-database)
-  * [Syncing your data between machines](#syncing-your-data-between-machines)
-  * [Updating Athens](#updating-athens)
-
 ## Install Athens
 
 Open the [Releases page](https://github.com/athensresearch/athens/releases).
