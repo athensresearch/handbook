@@ -21,7 +21,7 @@ If you want to make the handbook better, but don't want to work on the handbook 
 
 #### Handbook team
 
-We currently have a small team of contributors who 
+We currently have a small team of contributors who regularly work on the aforementioned TODOs in the Handbook project. If you're interested in joining, log onto our [Discord community](https://discord.gg/GCJaV3V) and check out the `#documentation` channel, then DM **Joel** to start the conversation.
 
 ### Language and tone
 

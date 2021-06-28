@@ -21,9 +21,9 @@ Find the next section of this page appropriate for your operating system.
 
 ### OS X
 
-If your OS X computer contains an [M1 chip](https://en.wikipedia.org/wiki/Apple_M1) (i.e. was purchased during or after November 10, 2020), you can download either `Athens-1.0.0-[VERSION]-arm64-mac.zip` or `Athens-1.0.0-[VERSION]-arm64.dmg`.
+If your OS X computer contains an [M1 chip](https://en.wikipedia.org/wiki/Apple_M1) \(i.e. was purchased during or after November 10, 2020\), you can download either `Athens-1.0.0-[VERSION]-arm64-mac.zip` or `Athens-1.0.0-[VERSION]-arm64.dmg`.
 
-If your OS X computer contains an [Intel chip](https://en.wikipedia.org/wiki/Mac_transition_to_Intel_processors) (i.e. was purchased between January 2006 and early November 2020), you can download either `Athens-1.0.0-[VERSION]-mac.zip` or `Athens-1.0.0-[VERSION].dmg`.
+If your OS X computer contains an [Intel chip](https://en.wikipedia.org/wiki/Mac_transition_to_Intel_processors) \(i.e. was purchased between January 2006 and early November 2020\), you can download either `Athens-1.0.0-[VERSION]-mac.zip` or `Athens-1.0.0-[VERSION].dmg`.
 
 If you download a `.zip` file:
 
@@ -46,7 +46,7 @@ The Linux release is a standalone [AppImage](https://appimage.org/) executable.
 1. Download `Athens-1.0.0-[VERSION].AppImage`.
 2. Change permissions of the file to make it executable, e.g. run the following command in a terminal from the directory containing the file.
 
-   ```sh
+   ```bash
    chmod a+x Athens-1.0.0-[VERSION].AppImage
    ```
 
@@ -56,7 +56,7 @@ The Linux release is a standalone [AppImage](https://appimage.org/) executable.
 
 ### Finding where Athens stores your data
 
-By default, Athens opens an initial knowledge graph that's stored in a local file called `index.transit`, which is a [datascript](https://github.com/tonsky/datascript) database at rest. The `index.transit` file and every other file in the folder, minus the backup (`.bkp`) files, make up the Athens database.
+By default, Athens opens an initial knowledge graph that's stored in a local file called `index.transit`, which is a [datascript](https://github.com/tonsky/datascript) database at rest. The `index.transit` file and every other file in the folder, minus the backup \(`.bkp`\) files, make up the Athens database.
 
 To find the location of this file for your operating system, click the **Choose Database** icon in the top-right corner of the Athens window.
 
@@ -81,10 +81,11 @@ To create a new database in a different location, click the **New** tab, enter a
 If you need to edit your knowledge graph from multiple machines or on different networks, you have two choices:
 
 1. Use a file synchronization tool like [Dropbox](https://www.dropbox.com) or [OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage). While Athens warns you about updated blocks coming from these tools, you should take care not to edit the same database from multiple machines at the same time.
-2. The [Athens backend](https://github.com/athensresearch/athens-backend) is in the process of being refactored into the [main Athens git repository](https://github.com/athensresearch/athens) (see [this issue](https://github.com/athensresearch/athens/pull/1170/) for details), but until that effort is completed, the existing archived backend can be used.
+2. The [Athens backend](https://github.com/athensresearch/athens-backend) is in the process of being refactored into the [main Athens git repository](https://github.com/athensresearch/athens) \(see [this issue](https://github.com/athensresearch/athens/pull/1170/) for details\), but until that effort is completed, the existing archived backend can be used.
 
 ### Updating Athens
 
 Athens will automatically download new releases and use them when restarted. As such, it's a good idea to restart Athens periodically.
 
 Note that there may be issues with this automatic update feature in Windows; see [this issue](https://github.com/athensresearch/athens/issues/1248) for details.
+

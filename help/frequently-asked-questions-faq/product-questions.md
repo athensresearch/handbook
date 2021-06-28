@@ -14,7 +14,7 @@ As of **June 18, 2021**, the best place to understand the current Athens roadmap
 
 ### How can I export my Athens database?
 
-There is currently no export functionality. The core Athens team is still figuring out the complexity of such an effort. Follow the ongoing disucssion around import/export on [GitHub](https://github.com/athensresearch/athens/discussions/874).
+There is currently no export functionality. The core Athens team is still figuring out the complexity of such an effort. Follow the ongoing discussion around import/export on [GitHub](https://github.com/athensresearch/athens/discussions/874).
 
 It is currently possible to _import_ a `.edn` database from Roam. See the [import](../../community/athens-guide/feature-list/import.md) doc for details.
 
@@ -23,6 +23,8 @@ It is currently possible to _import_ a `.edn` database from Roam. See the [impor
 ### How does Athens compare to other notetaking apps?
 
 ### How do I get a copy of my data?
+
+You always own your data when you use Athens. 
 
 ### How do you decide when to make a page versus making a block?
 

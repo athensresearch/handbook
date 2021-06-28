@@ -38,7 +38,12 @@
     * [Connect on social media](community/get-involved/learning-at-athens-academy-education/connect-on-social-media.md)
     * [Ask & answer questions](community/get-involved/learning-at-athens-academy-education/ask-and-answer-questions.md)
     * [Share your workflow](community/get-involved/learning-at-athens-academy-education/share-your-experiences.md)
+    * [Share sample templates or databases](community/get-involved/learning-at-athens-academy-education/submit-templates-or-databases.md)
+    * [File issues and bugs](community/get-involved/learning-at-athens-academy-education/file-and-verify-issues.md)
     * [Request new features](community/get-involved/learning-at-athens-academy-education/request-new-features.md)
+    * [Submit and review pull requests](community/get-involved/learning-at-athens-academy-education/review-and-submit-pull-requests.md)
+    * [Improve the handbook & documentation](community/get-involved/learning-at-athens-academy-education/contributing-documentation.md)
+    * [Improve design](community/get-involved/learning-at-athens-academy-education/contributing-design.md)
     * [Learn in Public](community/get-involved/learning-at-athens-academy-education/learn-in-public/README.md)
       * [Notetaking](community/get-involved/learning-at-athens-academy-education/learn-in-public/notetaking.md)
       * [Knowledge Management](community/get-involved/learning-at-athens-academy-education/learn-in-public/knowledge-management.md)
@@ -47,12 +52,6 @@
           * [Clojurefam Cohort and Team Rosters](community/get-involved/learning-at-athens-academy-education/learn-in-public/clojure/clojurefam/clojurefam-cohort-and-team-rosters.md)
           * [Learner Commits](community/get-involved/learning-at-athens-academy-education/learn-in-public/clojure/clojurefam/learner-commits.md)
         * [Onboarding for New Clojurians](community/get-involved/learning-at-athens-academy-education/learn-in-public/clojure/onboarding-for-new-clojurians.md)
-        * [Block Parser Documentation](community/get-involved/learning-at-athens-academy-education/learn-in-public/clojure/athens-block-parser-documentation.md)
-    * [File & verify issues](community/get-involved/learning-at-athens-academy-education/file-and-verify-issues.md)
-    * [Review & submit pull requests](community/get-involved/learning-at-athens-academy-education/review-and-submit-pull-requests.md)
-    * [Improve the handbook & documentation](community/get-involved/learning-at-athens-academy-education/contributing-documentation.md)
-    * [Improve Design](community/get-involved/learning-at-athens-academy-education/contributing-design.md)
-    * [Share sample templates or databases](community/get-involved/learning-at-athens-academy-education/submit-templates-or-databases.md)
 
 ## COMPANY
 
@@ -80,6 +79,7 @@
     * [Development](company/athens-research-governance-and-operations/engineering/development.md)
     * [Datascript Attribute Table](company/athens-research-governance-and-operations/engineering/datascript-attribute-table.md)
     * [Components Documentation](company/athens-research-governance-and-operations/engineering/athens-components-documentation.md)
+    * [Block Parser Documentation](company/athens-research-governance-and-operations/engineering/athens-block-parser-documentation.md)
     * [Product Management](company/athens-research-governance-and-operations/engineering/product-management.md)
   * [Finance & Accounting](company/athens-research-governance-and-operations/finance.md)
   * [Governance](company/athens-research-governance-and-operations/governance/README.md)
