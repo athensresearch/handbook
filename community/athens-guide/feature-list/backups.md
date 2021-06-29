@@ -9,7 +9,7 @@ Restoring from a `.bkp` file is a five-step process.
 Backups in Athens are stored in your main DB folder and have a `.bkp` file extension. To locate your database folder, in the Athens app, click the database icon on the toolbar and you will see the current location of your database. In this folder, you will see your backup files. 
 <img width="1552" alt="Screen Shot 2021-06-27 at 22 18 17" src="https://user-images.githubusercontent.com/80150109/123552819-954ecb00-d795-11eb-8d86-eb2e246737b8.png">
 
-#### Relocate your index.transit
+### Relocate your `index.transit` file
 Before we proceed to the next step, locate your current index.transit file and relocate it to another folder. 
 ![](https://user-images.githubusercontent.com/80150109/123552515-160cc780-d794-11eb-961d-8c277b3f632e.gif)
 #### Locate the backup file you want to restore from
