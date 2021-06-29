@@ -28,4 +28,4 @@ You can set your desired backup and auto save frequency in the settings page. By
 ## Best practices
 As Athens currently doesn't automatically delete your old backups, it becomes important to periodically clear out your folder in order to prevent it from taking too much space on your hard drive. The lower your auto save interval, the more frequently you should undertake this activity. 
 
-Additionally, because the backups are locally stored(for the moment), it makes sense to periodically backup the folder to a cloud service like Dropbox or Google Drive.
+Additionally, because the backups are locally stored (for the moment), it makes sense to periodically backup the folder to a cloud service like Dropbox or Google Drive.
