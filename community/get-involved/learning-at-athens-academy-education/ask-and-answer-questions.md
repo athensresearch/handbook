@@ -1,3 +1,9 @@
+---
+description: >-
+  The Athens community is all about learning, and one of the best ways to learn
+  is to ask questions and teach others in turn.
+---
+
 # Ask & answer questions
 
 The Athens community is all about learning in public, and in order to learn, we need people who are willing to learn _and_ we need teachers! Asking questions, or giving helpful answers in response, helps grow the community's collective understanding.

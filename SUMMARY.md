@@ -17,6 +17,7 @@
   * [Advanced](community/athens-guide/advanced-usage.md)
   * [Features](community/athens-guide/feature-list/README.md)
     * [All Pages](community/athens-guide/feature-list/all-pages.md)
+    * [Backups](community/athens-guide/feature-list/backups.md)
     * [Bidirectional Links](community/athens-guide/feature-list/bidirectional-links.md)
     * [Block](community/athens-guide/feature-list/block.md)
     * [Block References](community/athens-guide/feature-list/block-references.md)
