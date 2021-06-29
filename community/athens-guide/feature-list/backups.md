@@ -5,7 +5,7 @@ At Athens, we fundamentally believe in data ownership and data privacy. It is fr
 Backups in Athens are stored in a `.bkp` format which is easy to restore from. They are named with a [Unix timestamp](https://en.wikipedia.org/wiki/Unix_time) based on when they were created.
 
 Restoring from a `.bkp` file is a five-step process. 
-#### Locate your database folder
+### Locate your database folder
 Backups in Athens are stored in your main DB folder and have a `.bkp` file extension. To locate your database folder, in the Athens app, click the database icon on the toolbar and you will see the current location of your database. In this folder, you will see your backup files. 
 <img width="1552" alt="Screen Shot 2021-06-27 at 22 18 17" src="https://user-images.githubusercontent.com/80150109/123552819-954ecb00-d795-11eb-8d86-eb2e246737b8.png">
 
