@@ -1,4 +1,4 @@
-# Backups in Athens Research 
+# Backups in Athens
 
 At Athens, we fundamentally believe in data ownership and data privacy. It is from this belief that our backup system has been implemented. The primary goal of our backup system is to make it possible to revert your data back to any point in time so that there is  *zero* room for data loss due to corruption and other formatting issues. 
 ## Restoring from Backups
