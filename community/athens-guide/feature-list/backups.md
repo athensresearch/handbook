@@ -12,7 +12,7 @@ Backups in Athens are stored in your main DB folder and have a `.bkp` file exten
 ### Relocate your `index.transit` file
 Before we proceed to the next step, locate your current `index.transit` file and relocate it to another folder. 
 ![](https://user-images.githubusercontent.com/80150109/123552515-160cc780-d794-11eb-961d-8c277b3f632e.gif)
-#### Locate the backup file you want to restore from
+### Locate the backup file you want to restore from
 Once you are in the folder, find a file with a creation time that corresponds to the state of your database you would like to revert to. For instance, let's say you want to restore my DB to where it was on the night of June 6th. In this case, you find a `.bkp` file with a creation time around that specific time. You can also use a [Unix time converter](https://time.is/Unix_time_converter) to figure out when Athens created a `.bkp` file.
 ![](https://user-images.githubusercontent.com/80150109/123552513-14430400-d794-11eb-8428-8c3ac1f4cc77.gif)
 #### Rename the backup file
