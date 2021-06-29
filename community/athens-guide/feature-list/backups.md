@@ -18,7 +18,7 @@ Once you are in the folder, find a file with a creation time that corresponds to
 #### Rename the backup file
 At this point, rename the selected `.bkp` file to `index.transit`.
 ![](https://user-images.githubusercontent.com/80150109/123552503-0ab99c00-d794-11eb-938a-14fe80200184.gif)
-#### Open the new file in Athens
+### Open the new file in Athens
 <img width="503" alt="Open the new file in Athens" src="https://user-images.githubusercontent.com/80150109/123552802-76e8cf80-d795-11eb-9fe4-57ac3e8a374f.png">
 Reopen Athens, click the database icon once again and make sure you are on the **Open** pane. Proceed to click the open button and navigate to the newly created `index.transit` file. You have now reverted to a backup! All new backups will be created from this file and changes made to your DB will also reflect in the new `index.transit` file. 
 
