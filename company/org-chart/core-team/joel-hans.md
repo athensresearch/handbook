@@ -1,15 +1,15 @@
 ---
 description: >-
-  Joel Hans is the Head of Community on the Athens Research core team, handling
-  the people and processes around expanding the Athens community and developing
-  exciting new ways to learn from each other.
+  Joel Hans is the Head of Community on the Athens Research team, focused on
+  bringing new people into the Athens ecosystem and making them wildly
+  successful at learning.
 ---
 
 # Joel Hans
 
 * **Name**: Joel Hans
 * **Title**: Head of Community
-* **Area of focus**: Community
+* **Area of focus**: Community, growth, marketing
 * **Location**: Tucson, Arizona, USA 🇺🇸
 * \*\*\*\*[**Discord**](https://discord.gg/as9h8yHNfD): @joelhans
 * **GitHub**: [@joelhans](https://github.com/joelhans/)
@@ -18,6 +18,7 @@ description: >-
 
 ### Ask me about
 
+* The Athens Research handbook
 * How to contribute to any Athens Research project, including:
   * Desktop app
   * Self-hosted server
@@ -25,8 +26,6 @@ description: >-
   * Handbook \(product documentation, operations\)
   * ... and much more!
 * All things Discord
-* ClojureFam
-* GitCoin bounties program
 * Events, like the weekday standups, Sunday community calls, or planning your own local/online meetup
 
 ### Bio

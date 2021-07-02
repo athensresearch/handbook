@@ -1,8 +1,7 @@
 ---
 description: >-
   Matei Canavra is the Chief of Staff on the core Athens team, and handles
-  running Athens Research as a company, hiring, and making cross-functional
-  work.
+  running Athens Research as a company in parallel with enterprise sales.
 ---
 
 # Matei Canavra

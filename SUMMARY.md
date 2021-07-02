@@ -57,11 +57,11 @@
 ## COMPANY
 
 * [People](company/org-chart/README.md)
-  * [Core Team](company/org-chart/core-team/README.md)
+  * [Team](company/org-chart/core-team/README.md)
     * [Alex Iwaniuk](company/org-chart/core-team/alex-iwaniuk.md)
+    * [Filipe Silva](company/org-chart/core-team/filipe-silva.md)
     * [Jeff Tang](company/org-chart/core-team/jeff.md)
     * [Joel Hans](company/org-chart/core-team/joel-hans.md)
-    * [Johnny Morabito](company/org-chart/core-team/johnny.md)
     * [Matei Canavra](company/org-chart/core-team/matei-canavra.md)
     * [Stuart Hanberg](company/org-chart/core-team/stuart-hanberg.md)
   * [Contributors](company/org-chart/contributors.md)
