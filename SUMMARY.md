@@ -61,7 +61,6 @@
     * [Alex Iwaniuk](company/org-chart/core-team/alex-iwaniuk.md)
     * [Filipe Silva](company/org-chart/core-team/filipe-silva.md)
     * [Jeff Tang](company/org-chart/core-team/jeff.md)
-    * [Joel Hans](company/org-chart/core-team/joel-hans.md)
     * [Matei Canavra](company/org-chart/core-team/matei-canavra.md)
     * [Stuart Hanberg](company/org-chart/core-team/stuart-hanberg.md)
   * [Contributors](company/org-chart/contributors.md)
