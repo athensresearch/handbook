@@ -1,2 +1,2 @@
-# Athens User Guide
+# User Guide
 
