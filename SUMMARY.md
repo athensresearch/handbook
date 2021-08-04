@@ -36,7 +36,6 @@
     * [Page](community/athens-guide/feature-list/page.md)
     * [Slash Commands](community/athens-guide/feature-list/slash-commands.md)
 * [Contributor Guide](community/get-involved/README.md)
+  * [Setup](community/get-involved/setup.md)
   * [Code of Conduct](community/get-involved/code-of-conduct.md)
-
-## COMPANY
 

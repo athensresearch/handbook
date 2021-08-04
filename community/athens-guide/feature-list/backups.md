@@ -24,7 +24,7 @@ Backups in Athens are stored in your main DB folder and have a `.bkp` file exten
 
 Before we proceed to the next step, locate your current `index.transit` file and relocate it to another folder.
 
-![](../../../.gitbook/assets/123552515-160cc780-d794-11eb-961d-8c277b3f632e%20%281%29.gif)
+![](../../../.gitbook/assets/123552515-160cc780-d794-11eb-961d-8c277b3f632e%20%281%29%20%281%29.gif)
 
 #### Locate the backup file you want to restore from
 
