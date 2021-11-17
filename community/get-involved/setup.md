@@ -6,14 +6,14 @@
 
 These dependencies are needed to get Athens up and running. To install them, follow the instructions in the links.
 
-1. [Java 11 and Leiningen](https://purelyfunctional.tv/guide/how-to-install-clojure/) \(Leiningen installs Clojure\)
+1. [Java 11 and Leiningen](https://purelyfunctional.tv/guide/how-to-install-clojure/) (Leiningen installs Clojure)
 2. [Node 12](https://nodejs.org/en/download/) and [Yarn](https://classic.yarnpkg.com/en/docs/install/#mac-stable)
 
-_If you want to use Windows Subsystem for Linux \(WSL\),_ [_try this tutorial_](https://www.notion.so/Beginner-Clojure-Environment-Setup-Windows-36f70c16b9a7420da3cd797a3eb712fa#6a53854de58d4f07ba6319d868fba29c)_._
+_If you want to use Windows Subsystem for Linux (WSL),_ [_try this tutorial_](https://www.notion.so/Beginner-Clojure-Environment-Setup-Windows-36f70c16b9a7420da3cd797a3eb712fa#6a53854de58d4f07ba6319d868fba29c)_._
 
 After you've got these dependencies, clone the Git repository to your hard drive:
 
-```text
+```
 git clone https://github.com/athensresearch/athens.git
 ```
 
@@ -21,19 +21,19 @@ Then `cd athens/` and run the following commands.
 
 Pull JavaScript dependencies:
 
-```text
+```
 yarn
 ```
 
 Pull Java dependencies and build, then start a local HTTP server for Athens:
 
-```text
+```
 lein dev
 ```
 
 In another terminal, run:
 
-```text
+```
 yarn run electron .
 ```
 
@@ -49,49 +49,22 @@ If you run `yarn run electron .` from your local system, but are running Athens 
 
 The following command runs Athens in a docker container, but does not provide a workaround to actually run Electron.
 
-```text
+```
 docker build -t athens .
 docker run -it -p 3000:3000 -p 8777:8777 -p 9630:9630 athens
 ```
 
-## Deploying Athens and Devcards
+## Storybook React Components
 
-You should deploy your version of Athens and [Devcards](https://github.com/bhauman/devcards) if you are making UI-releated pull requests to Athens. This will allow developers and designers to interact with your code, which is essential for reviewing UI changes.
-
-Athens Devcards can be found at [https://athensresearch.github.io/athens/cards.html](https://athensresearch.github.io/athens/cards.html).
-
-### Automated Deploys
-
-We've setup GitHub Actions so that each time you commit to your fork on GitHub, GitHub Actions automatically lints, tests, and styles your code.
-
-If these scripts pass, GitHub builds your code and then deploys it to [https://YOUR\_GITHUB.github.io/athens/](https://YOUR_GITHUB.github.io/athens/) and [https://YOUR\_GITHUB.github.io/athens/cards.html](https://YOUR_GITHUB.github.io/athens/cards.html).
-
-To begin doing automated deploys, just make sure your Actions are enabled at [https://github.com/YOUR\_GITHUB/athens/actions](https://github.com/YOUR_GITHUB/athens/actions). Then start pushing code!
-
-### Manual Deploys
-
-To build and deploy Athens and Devcards from your local development environment:
-
-1. Build your JavaScript bundle\(s\) with either `lein dev`, `lein devcards`, or `lein compile`.
-2. Run `lein gh-pages`.
-3. Open [http:///github.io/athens/](http:///github.io/athens/) and [http:///github.io/athens/cards.html](http:///github.io/athens/cards.html). Sometimes this takes a minute to be updated.
-
-Notes:
-
-* If you want to compile Athens and Devcards one time without hot-reloading, run `lein compile`.
-* If you are actively developing Athens and not Devcards, run `lein dev` to hot-reload the Athens application.
-* If you are actively developing DevCards and not Athens, run `lein devcards` to hot-reload Devcards.
-* If you want to build Athens and Devcards, because you are testing a component on DevCards and Athens at the same time, you should run `lein dev` and `lein devcards` in two terminals.
-* If both builds are running, it doesn't matter which port you go to \(i.e. `3000` or `3001`\), because both HTTP servers can serve assets.
-* More docs should be written in the future on how to connect a REPL to either build, depending on your text editor.
+We are mainly using or are in the process of migrating to React JS components for our frontend, so contributions to our client can be more accessible. [Please see up to date docs about Storybook here](https://github.com/athensresearch/athens/blob/feature/rtc-v1/doc/adr/0011-components-preview.md).
 
 ## Connecting your REPL
 
-The REPL is one of the core features of Clojure. REPL-driven programming can make you code faster, with less tests and bugs. This [video](https://vvvvalvalval.github.io/posts/what-makes-a-good-repl.html#what_does_a_good_repl_give_you?:~:text=What%20does%20a%20good%20REPL%20give%20you%3F,-The) demonstrates this.
+The REPL is one of the core features of Clojure. REPL-driven programming can make you code faster, with less tests and bugs. This [video](https://vvvvalvalval.github.io/posts/what-makes-a-good-repl.html#what\_does\_a\_good\_repl\_give\_you?:\~:text=What%20does%20a%20good%20REPL%20give%20you%3F,-The) demonstrates this.
 
 * Make sure you can run Athens locally before proceeding with this section.
-* Refer to shadow-cljs [editor integration docs](https://shadow-cljs.github.io/docs/UsersGuide.html#_editor_integration) for more details.
-* nREPL port is 8777, as defined in [shadow-cljs.edn](shadow-cljs.edn).
+* Refer to shadow-cljs [editor integration docs](https://shadow-cljs.github.io/docs/UsersGuide.html#\_editor\_integration) for more details.
+* nREPL port is 8777, as defined in [shadow-cljs.edn](https://app.gitbook.com/s/-MVghT4Ocm\_YaZ2-l20i-2910905616/community/get-involved/shadow-cljs.edn).
 
 ### Cursive
 
@@ -103,13 +76,13 @@ The REPL is one of the core features of Clojure. REPL-driven programming can mak
 
 ### Calva
 
-```text
+```
 Editor - Visual Studio Code
 Calva plugin: v2.0.126 Built on: 2020-07-09
 OS - Windows 10, MacOS Catalina v10.15.6
 ```
 
-1. In VS Code, run `ctrl+shift+c` and `ctrl+shift+j` \(`ctrl+alt+c ctrl+alt+j` in Windows 10\) to jack into a repl session.
+1. In VS Code, run `ctrl+shift+c` and `ctrl+shift+j` (`ctrl+alt+c ctrl+alt+j` in Windows 10) to jack into a repl session.
 2. Pick shadow-cljs.
 3. Select `:main` and `:renderer` profile for shadow-cljs to watch.
 4. Select the `:renderer` build to connect to.
@@ -119,40 +92,40 @@ OS - Windows 10, MacOS Catalina v10.15.6
 
 * [ ] TODO vim-iced
 * [ ] TODO conjure
-* \[X\] TODO fireplace
+* [ ] \[X] TODO fireplace
 
 #### Fireplace
 
-[Fireplace](https://github.com/tpope/vim-fireplace) is a popular Clojure\(script\) development plugin for Vim \(and Neovim\) text editor. It's main dependency is the [cider-nrepl](https://github.com/clojure-emacs/cider-nrepl) which already included as a development dependency.
+[Fireplace](https://github.com/tpope/vim-fireplace) is a popular Clojure(script) development plugin for Vim (and Neovim) text editor. It's main dependency is the [cider-nrepl](https://github.com/clojure-emacs/cider-nrepl) which already included as a development dependency.
 
 Assume you already executed the commands described above in different terminal sessions and have the Athens instance running. And of course assume you installed vim-fireplace plugin too.
 
-```text
+```
 lein dev # in one terminal, running nrepl server on port 8777
 yarn run electron . # another terminal running the Athens app itself
 ```
 
-Now open any Clojure file in Vim. This will load vim-fireplace plugin and necessary commands. First, we need to connect Clojure \(not Clojurescript yet\) runtime;
+Now open any Clojure file in Vim. This will load vim-fireplace plugin and necessary commands. First, we need to connect Clojure (not Clojurescript yet) runtime;
 
-```text
+```
 :FireplaceConnect 8777
 ```
 
 Clojure part is done. Now to connect Clojurescript runtime with vim-fireplace;
 
-```text
+```
 :Piggieback :renderer
 ```
 
 To test your development environment you can try to evaluate some Clojurescript and see the results on Athens running in electron;
 
-```text
+```
 :CljsEval (js/alert "hello!")
 ```
 
 You supposed to see an alert on electron app saying "hello!" and your Vim instance would be blocked until you acknowledge the alert message.
 
-If all goes well, now you can see documentation of symbols \(binding: K\), go to definition \(binding: \[ C-d\) and so fort. See `:help fireplace` for more information.
+If all goes well, now you can see documentation of symbols (binding: K), go to definition (binding: \[ C-d) and so fort. See `:help fireplace` for more information.
 
 #### Conjure
 
@@ -160,7 +133,7 @@ If all goes well, now you can see documentation of symbols \(binding: K\), go to
 
 Its main dependency is the [cider-nrepl](https://github.com/clojure-emacs/cider-nrepl). Create the following file at `~/.shadow-cljs/config.edn` to add the dependency:
 
-```text
+```
 {:dependencies
  [[cider/cider-nrepl "0.26.0"]]}
 ;; this version may be out of date, check whichever is available
@@ -170,7 +143,7 @@ See [shadow-cljs docs](https://shadow-cljs.github.io/docs/UsersGuide.html#user-c
 
 Now that we're set up, lets start the development environment;
 
-```text
+```
 lein dev # in one terminal, running nrepl server on port 8777
 yarn run electron . # another terminal running the Athens app itself
 ```
@@ -179,19 +152,19 @@ Open any Clojurescript file in Neovim. Conjure will connect automatically to the
 
 To get that buffer back and to keep it open in a horizontal split:
 
-```text
+```
 :ConjureLogSplit
 ```
 
 To connect to the Clojurescript runtime;
 
-```text
+```
 :ConjureShadowSelect renderer
 ```
 
 In the log buffer you should see;
 
-```text
+```
 ; --------------------------------------------------------------------------------
 ; shadow-cljs (select): renderer
 ; (out) To quit, type: :cljs/quit
@@ -200,7 +173,7 @@ In the log buffer you should see;
 
 To test your development environment you can try to evaluate some Clojurescript and see the results on Athens running in electron;
 
-```text
+```
 :ConjureEval (js/alert "hello!")
 ```
 
@@ -208,11 +181,11 @@ You should see an alert in the electron app saying "hello!". All further evaluat
 
 Congratulations, you're connected!
 
-To learn more about how to evaluate things with Conjure, please refer to `:help conjure`, `:help conjure-client-clojure-nrepl` and `:ConjureSchool` \(an interactive tutorial\). See also: \[Conjures quickstart guide to Clojurescript\]\([https://github.com/Olical/conjure/wiki/Quick-start:-ClojureScript-\(shadow-cljs](https://github.com/Olical/conjure/wiki/Quick-start:-ClojureScript-%28shadow-cljs)\)\) and [Clojure](https://github.com/Olical/conjure/wiki/Quick-start:-Clojure)
+To learn more about how to evaluate things with Conjure, please refer to `:help conjure`, `:help conjure-client-clojure-nrepl` and `:ConjureSchool` (an interactive tutorial). See also: \[Conjures quickstart guide to Clojurescript]\([https://github.com/Olical/conjure/wiki/Quick-start:-ClojureScript-(shadow-cljs](https://github.com/Olical/conjure/wiki/Quick-start:-ClojureScript-\(shadow-cljs))) and [Clojure](https://github.com/Olical/conjure/wiki/Quick-start:-Clojure)
 
 ## Using re-frame-10x
 
-The right sidebar has [`re-frame-10x`](https://github.com/day8/re-frame-10x/tree/master/src/day8) developer tools. You can toggle it open and close with `ctrl-h`, but you must not be focused on a block \(ctrl-h has a specific action in some operating systems\).
+The right sidebar has [`re-frame-10x`](https://github.com/day8/re-frame-10x/tree/master/src/day8) developer tools. You can toggle it open and close with `ctrl-h`, but you must not be focused on a block (ctrl-h has a specific action in some operating systems).
 
 Once you have 10x open, you can hover over blocks' bullets to see some of their datascript data.
 
@@ -220,7 +193,7 @@ By default, 10x is closed everytime Athens starts. Sometimes you want 10x to be 
 
 ## Running CI Scripts Locally
 
-After each submitted PR to Athens, GitHub Actions runs the continuous integration workflow declared in `.github/workflows/build.yml`. This workflow runs scripts from [`script/`](script) to test, lint, and build Athens. You can see these workflows in practice in the [Actions tab](https://github.com/athensresearch/athens/actions/).
+After each submitted PR to Athens, GitHub Actions runs the continuous integration workflow declared in `.github/workflows/build.yml`. This workflow runs scripts from [`script/`](https://app.gitbook.com/s/-MVghT4Ocm\_YaZ2-l20i-2910905616/community/get-involved/script) to test, lint, and build Athens. You can see these workflows in practice in the [Actions tab](https://github.com/athensresearch/athens/actions/).
 
 However, it's a lot faster if you run these tests locally, so you don't have to submit a PR each time to make sure the workflow succeeds. You may need to install additional dependencies, though.
 
@@ -228,13 +201,13 @@ However, it's a lot faster if you run these tests locally, so you don't have to 
 
 No additional installation is needed. Just run this:
 
-```text
+```
 lein test
 ```
 
 The output will look something like this:
 
-```text
+```
 $ lein test
 
 Testing athens.block-test
@@ -249,13 +222,13 @@ Ran 4 tests containing 16 assertions.
 
 ### Linting
 
-We are linting Clojure code using [clj-kondo](https://github.com/borkdude/clj-kondo). Our clj-kondo configuration is in [`.clj-kondo/config.edn`](.clj-kondo/config.edn).
+We are linting Clojure code using [clj-kondo](https://github.com/borkdude/clj-kondo). Our clj-kondo configuration is in [`.clj-kondo/config.edn`](https://app.gitbook.com/s/-MVghT4Ocm\_YaZ2-l20i-2910905616/community/get-involved/.clj-kondo/config.edn).
 
 For this linting to work, you will need to install `clj-kondo`. Instructions are in [`clj-kondo`’s installation guide](https://github.com/borkdude/clj-kondo/blob/master/doc/install.md).
 
 To see the problems reported by clj-kondo, run `script/lint`. Example run:
 
-```text
+```
 $ script/lint
 linting took 257ms, errors: 0, warnings: 0
 ```
@@ -282,7 +255,7 @@ Next, just run `script/carve`. The first time you run it it will download [Carve
 
 Follow guidelines from [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/). Specifically, begin each commit with one of the following types:
 
-```text
+```
 build:
 ci:
 chore:
@@ -304,9 +277,9 @@ Please create issues using [our templates](https://github.com/athensresearch/ath
 
 ### Pull Requests
 
-If your PR is related to other issue\(s\), reference it by issue number. You can close issues smoothly with [GitHub keywords](https://help.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords):
+If your PR is related to other issue(s), reference it by issue number. You can close issues smoothly with [GitHub keywords](https://help.github.com/en/enterprise/2.16/user/github/managing-your-work-on-github/closing-issues-using-keywords):
 
-```text
+```
 close #1
 fix #2
 resolve #2
@@ -317,4 +290,3 @@ This repo only allows those with merge permissions to "Squash and Merge" PRs. Th
 ## Developer Resources
 
 * download [Sample Athens Databases](https://drive.google.com/drive/u/3/folders/1E8z-s33PfzNCGxEsZNQlB5niVq9bKQg0) from our google drive
-
