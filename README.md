@@ -1,3 +1,5 @@
+**Update: new docs are being hosted at https://athensresearch.github.io/docs/ and https://github.com/athensresearch/docs. We are are in the process of migrating over docs from https://handbook.athensresearch.org/, but this repo will be archived for posterity. Please use the https://athensresearch.github.io/docs going forward**
+
 # Welcome
 
 This handbook is an open, living document centralizing all information about products, people, and processes around Athens Research. The goal is clarity and transparency. The handbook is maintained by everyone in the community, and your contributions are welcome. All contributors must follow our [Code of Conduct](community/get-involved/code-of-conduct.md).
